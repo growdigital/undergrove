@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2459801.915191042
+2459803.833564317
   9
 $TDUCREATE
  40
-2459801.915191042
+2459803.833564317
   9
 $TDUPDATE
  40
-2459801.915191771
+2459803.833564757
   9
 $TDUUPDATE
  40
-2459801.915191771
+2459803.833564757
   9
 $TDINDWG
  40
@@ -549,7 +549,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-2832
+2D7C
   9
 $SURFTAB1
  70
@@ -929,7 +929,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{79e01c82-d606-dd49-ad67-836c5ebe8031}
+{8658132a-e016-7146-8667-52181534a005}
   9
 $VERSIONGUID
   2
@@ -1073,7 +1073,7 @@ $TILEMODELIGHTSYNCH
   9
 $CMATERIAL
 347
-262D
+2B72
   9
 $SOLIDHIST
 280
@@ -1315,7 +1315,7 @@ TABLE
   2
 VPORT
   5
-25F2
+2B37
 330
 0
 100
@@ -1325,9 +1325,9 @@ AcDbSymbolTable
   0
 VPORT
   5
-2612
+2B57
 330
-25F2
+2B37
 100
 AcDbSymbolTableRecord
 100
@@ -1345,9 +1345,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-14.74659553533162
+17.69993613208571
  22
-35.46170411582999
+31.24367621776004
  13
 0.0
  23
@@ -1373,9 +1373,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-3.978952404525337
+6.87562975501978
  41
-1.748544819557624
+1.748544819557625
  42
 50.0
  43
@@ -1429,7 +1429,7 @@ AcDbViewportTableRecord
 146
 0.0
 348
-2618
+2B5D
  60
      3
  61
@@ -1445,7 +1445,7 @@ AcDbViewportTableRecord
  63
    250
 361
-2656
+2B9B
   0
 ENDTAB
   0
@@ -1453,7 +1453,7 @@ TABLE
   2
 LTYPE
   5
-25EF
+2B34
 330
 0
 100
@@ -1463,9 +1463,9 @@ AcDbSymbolTable
   0
 LTYPE
   5
-25FD
+2B42
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -1485,9 +1485,9 @@ ByBlock
   0
 LTYPE
   5
-25FE
+2B43
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -1507,9 +1507,9 @@ ByLayer
   0
 LTYPE
   5
-25FF
+2B44
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -1529,175 +1529,9 @@ Solid line
   0
 LTYPE
   5
-268E
+2BD2
 330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-DRAINAGE2
- 70
-     0
-  3
-Drainage reversed----<----<----<----
- 72
-    65
- 73
-     2
- 40
-10.16
- 49
-5.08
- 74
-     2
- 75
-     0
-340
-268D
- 46
-2.54
- 50
-0.0
- 44
-0.0
- 45
-0.0
-  9
-RIGHT_ARROW
- 49
-5.08
- 74
-     0
-  0
-LTYPE
-  5
-268F
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-DIVIDEX2
- 70
-     0
-  3
-Divide (2x) ________  .  .  ________  .  .  _
- 72
-    65
- 73
-     6
- 40
-63.5
- 49
-25.4
- 74
-     0
- 49
--12.7
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--12.7
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--12.7
- 74
-     0
-  0
-LTYPE
-  5
-2690
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-DIVIDE2
- 70
-     0
-  3
-Divide (.5x) __..__..__..__..__..__..__..__.._
- 72
-    65
- 73
-     6
- 40
-15.875
- 49
-6.35
- 74
-     0
- 49
--3.175
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--3.175
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--3.175
- 74
-     0
-  0
-LTYPE
-  5
-2691
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-DOT2
- 70
-     0
-  3
-Dot (.5x) ........................................
- 72
-    65
- 73
-     2
- 40
-3.175
- 49
-0.0
- 74
-     0
- 49
--3.175
- 74
-     0
-  0
-LTYPE
-  5
-2692
-330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -1725,27 +1559,27 @@ Dot . . . . . . . . . . . . . . . . . . . . . . . .
   0
 LTYPE
   5
-2693
+2BD3
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-DASHED2
+DOT2
  70
      0
   3
-Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Dot (.5x) ........................................
  72
     65
  73
      2
  40
-9.524999999999999
+3.175
  49
-6.35
+0.0
  74
      0
  49
@@ -1755,9 +1589,9 @@ Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   0
 LTYPE
   5
-2694
+2BD4
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -1785,9 +1619,69 @@ Dashed __ __ __ __ __ __ __ __ __ __ __ __ __ _
   0
 LTYPE
   5
-2695
+2BD5
 330
-25EF
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED2
+ 70
+     0
+  3
+Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ 72
+    65
+ 73
+     2
+ 40
+9.524999999999999
+ 49
+6.35
+ 74
+     0
+ 49
+-3.175
+ 74
+     0
+  0
+LTYPE
+  5
+2BD6
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHEDX2
+ 70
+     0
+  3
+Dashed (2x) ____  ____  ____  ____  ____  ___
+ 72
+    65
+ 73
+     2
+ 40
+38.09999999999999
+ 49
+25.4
+ 74
+     0
+ 49
+-12.7
+ 74
+     0
+  0
+LTYPE
+  5
+2BD7
+330
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -1831,715 +1725,9 @@ Divide ____ . . ____ . . ____ . . ____ . . ____
   0
 LTYPE
   5
-2696
+2BD8
 330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-DASHEDX2
- 70
-     0
-  3
-Dashed (2x) ____  ____  ____  ____  ____  ___
- 72
-    65
- 73
-     2
- 40
-38.09999999999999
- 49
-25.4
- 74
-     0
- 49
--12.7
- 74
-     0
-  0
-LTYPE
-  5
-2698
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-TRACKS
- 70
-     0
-  3
-Tracks -|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
- 72
-    65
- 73
-     2
- 40
-7.62
- 49
-3.81
- 74
-     2
- 75
-     0
-340
-2697
- 46
-6.35
- 50
-0.0
- 44
-0.0
- 45
-0.0
-  9
-TRACK1
- 49
-3.81
- 74
-     0
-  0
-LTYPE
-  5
-2699
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-PHANTOMX2
- 70
-     0
-  3
-Phantom (2x) ____________    ____    ____   _
- 72
-    65
- 73
-     6
- 40
-127.0
- 49
-63.5
- 74
-     0
- 49
--12.7
- 74
-     0
- 49
-12.7
- 74
-     0
- 49
--12.7
- 74
-     0
- 49
-12.7
- 74
-     0
- 49
--12.7
- 74
-     0
-  0
-LTYPE
-  5
-269C
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-ZIGZAG
- 70
-     0
-  3
-Zig zag /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
- 72
-    65
- 73
-     4
- 40
-20.32254
- 49
-0.00254
- 74
-     0
- 49
--5.08
- 74
-     2
- 75
-     0
-340
-269A
- 46
-5.08
- 50
-0.0
- 44
--5.08
- 45
-0.0
-  9
-ZIG
- 49
--10.16
- 74
-     2
- 75
-     0
-340
-269B
- 46
-5.08
- 50
-180.0
- 44
-5.08
- 45
-0.0
-  9
-ZIG
- 49
--5.08
- 74
-     0
-  0
-LTYPE
-  5
-269E
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-HOT_WATER_SUPPLY
- 70
-     0
-  3
-Hot water supply ---- HW ---- HW ---- HW ----
- 72
-    65
- 73
-     3
- 40
-22.86
- 49
-12.7
- 74
-     0
- 49
--5.08
- 74
-     2
- 75
-     0
-340
-269D
- 46
-2.54
- 50
-0.0
- 44
--2.54
- 45
--1.27
-  9
-HW
- 49
--5.08
- 74
-     0
-  0
-LTYPE
-  5
-269F
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-HIDDENX2
- 70
-     0
-  3
-Hidden (2x) ____ ____ ____ ____ ____ ____ ____ 
- 72
-    65
- 73
-     2
- 40
-19.05
- 49
-12.7
- 74
-     0
- 49
--6.35
- 74
-     0
-  0
-LTYPE
-  5
-26A0
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-PHANTOM2
- 70
-     0
-  3
-Phantom (.5x) ___ _ _ ___ _ _ ___ _ _ ___ _ _
- 72
-    65
- 73
-     6
- 40
-31.75
- 49
-15.875
- 74
-     0
- 49
--3.175
- 74
-     0
- 49
-3.175
- 74
-     0
- 49
--3.175
- 74
-     0
- 49
-3.175
- 74
-     0
- 49
--3.175
- 74
-     0
-  0
-LTYPE
-  5
-26A1
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-PHANTOM
- 70
-     0
-  3
-Phantom ______  __  __  ______  __  __  ______ 
- 72
-    65
- 73
-     6
- 40
-63.50000000000001
- 49
-31.75
- 74
-     0
- 49
--6.35
- 74
-     0
- 49
-6.35
- 74
-     0
- 49
--6.35
- 74
-     0
- 49
-6.35
- 74
-     0
- 49
--6.35
- 74
-     0
-  0
-LTYPE
-  5
-26A2
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-ACAD_ISO07W100
- 70
-     0
-  3
-ISO dot . . . . . . . . . . . . . . . . . . . . 
- 72
-    65
- 73
-     2
- 40
-3.0
- 49
-0.0
- 74
-     0
- 49
--3.0
- 74
-     0
-  0
-LTYPE
-  5
-26A3
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-ACAD_ISO06W100
- 70
-     0
-  3
-ISO long-dash triple-dot ____ ... ____ ... ____
- 72
-    65
- 73
-     8
- 40
-36.0
- 49
-24.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--3.0
- 74
-     0
-  0
-LTYPE
-  5
-26A4
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-ACAD_ISO09W100
- 70
-     0
-  3
-ISO long-dash double-short-dash ____ __ __ ____
- 72
-    65
- 73
-     6
- 40
-45.0
- 49
-24.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
-6.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
-6.0
- 74
-     0
- 49
--3.0
- 74
-     0
-  0
-LTYPE
-  5
-26A5
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-ACAD_ISO08W100
- 70
-     0
-  3
-ISO long-dash short-dash ____ __ ____ __ ____ _
- 72
-    65
- 73
-     4
- 40
-36.0
- 49
-24.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
-6.0
- 74
-     0
- 49
--3.0
- 74
-     0
-  0
-LTYPE
-  5
-26A6
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-ACAD_ISO03W100
- 70
-     0
-  3
-ISO dash space __    __    __    __    __    __
- 72
-    65
- 73
-     2
- 40
-30.0
- 49
-12.0
- 74
-     0
- 49
--18.0
- 74
-     0
-  0
-LTYPE
-  5
-26A7
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-ACAD_ISO02W100
- 70
-     0
-  3
-ISO dash __ __ __ __ __ __ __ __ __ __ __ __ __
- 72
-    65
- 73
-     2
- 40
-15.0
- 49
-12.0
- 74
-     0
- 49
--3.0
- 74
-     0
-  0
-LTYPE
-  5
-26A8
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-ACAD_ISO05W100
- 70
-     0
-  3
-ISO long-dash double-dot ____ .. ____ .. ____ . 
- 72
-    65
- 73
-     6
- 40
-33.0
- 49
-24.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--3.0
- 74
-     0
-  0
-LTYPE
-  5
-26A9
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-ACAD_ISO04W100
- 70
-     0
-  3
-ISO long-dash dot ____ . ____ . ____ . ____ . _
- 72
-    65
- 73
-     4
- 40
-30.0
- 49
-24.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--3.0
- 74
-     0
-  0
-LTYPE
-  5
-26AA
-330
-25EF
-100
-AcDbSymbolTableRecord
-100
-AcDbLinetypeTableRecord
-  2
-DASHDOT
- 70
-     0
-  3
-Dash dot __ . __ . __ . __ . __ . __ . __ . __
- 72
-    65
- 73
-     4
- 40
-25.4
- 49
-12.7
- 74
-     0
- 49
--6.35
- 74
-     0
- 49
-0.0
- 74
-     0
- 49
--6.35
- 74
-     0
-  0
-LTYPE
-  5
-26AB
-330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -2575,31 +1763,31 @@ Center (2x) ________  __  ________  __  _____
   0
 LTYPE
   5
-26AC
+2BD9
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-DASHDOTX2
+DASHDOT
  70
      0
   3
-Dash dot (2x) ____  .  ____  .  ____  .  ___
+Dash dot __ . __ . __ . __ . __ . __ . __ . __
  72
     65
  73
      4
  40
-50.8
- 49
 25.4
+ 49
+12.7
  74
      0
  49
--12.7
+-6.35
  74
      0
  49
@@ -2607,15 +1795,15 @@ Dash dot (2x) ____  .  ____  .  ____  .  ___
  74
      0
  49
--12.7
+-6.35
  74
      0
   0
 LTYPE
   5
-26AD
+2BDA
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -2651,33 +1839,25 @@ Dash dot (.5x) _._._._._._._._._._._._._._._.
   0
 LTYPE
   5
-26AE
+2BDB
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-BORDERX2
+DASHDOTX2
  70
      0
   3
-Border (2x) ____  ____  .  ____  ____  .  ___
+Dash dot (2x) ____  .  ____  .  ____  .  ___
  72
     65
  73
-     6
+     4
  40
-88.89999999999999
- 49
-25.4
- 74
-     0
- 49
--12.7
- 74
-     0
+50.8
  49
 25.4
  74
@@ -2697,9 +1877,9 @@ Border (2x) ____  ____  .  ____  ____  .  ___
   0
 LTYPE
   5
-26AF
+2BDC
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -2743,47 +1923,55 @@ Border (.5x) __.__.__.__.__.__.__.__.__.__.__.
   0
 LTYPE
   5
-26B0
+2BDD
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-CENTER2
+BORDERX2
  70
      0
   3
-Center (.5x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
+Border (2x) ____  ____  .  ____  ____  .  ___
  72
     65
  73
-     4
+     6
  40
-28.575
+88.89999999999999
  49
-19.05
+25.4
  74
      0
  49
--3.175
+-12.7
  74
      0
  49
-3.175
+25.4
  74
      0
  49
--3.175
+-12.7
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-12.7
  74
      0
   0
 LTYPE
   5
-26B1
+2BDE
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -2819,9 +2007,101 @@ Center ____ _ ____ _ ____ _ ____ _ ____ _ ____
   0
 LTYPE
   5
-26B2
+2BDF
 330
-25EF
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER2
+ 70
+     0
+  3
+Center (.5x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
+ 72
+    65
+ 73
+     4
+ 40
+28.575
+ 49
+19.05
+ 74
+     0
+ 49
+-3.175
+ 74
+     0
+ 49
+3.175
+ 74
+     0
+ 49
+-3.175
+ 74
+     0
+  0
+LTYPE
+  5
+2BE0
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ACAD_ISO14W100
+ 70
+     0
+  3
+ISO dash triple-dot __ . . . __ . . . __ . . . _
+ 72
+    65
+ 73
+     8
+ 40
+24.0
+ 49
+12.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+  0
+LTYPE
+  5
+2BE1
+330
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -2881,63 +2161,75 @@ ISO double-dash triple-dot __ __ . . . __ __ . .
   0
 LTYPE
   5
-26B3
+2BE4
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-ACAD_ISO14W100
+BATTING
  70
      0
   3
-ISO dash triple-dot __ . . . __ . . . __ . . . _
+Batting SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
  72
     65
  73
-     8
+     4
  40
-24.0
+10.16254
  49
-12.0
+0.00254
  74
      0
  49
--3.0
+-2.54
  74
+     2
+ 75
      0
- 49
+340
+2BE2
+ 46
+2.54
+ 50
 0.0
- 74
-     0
- 49
--3.0
- 74
-     0
- 49
+ 44
+-2.54
+ 45
 0.0
- 74
-     0
+  9
+BAT
  49
--3.0
+-5.08
  74
+     2
+ 75
      0
- 49
+340
+2BE3
+ 46
+2.54
+ 50
+180.0
+ 44
+2.54
+ 45
 0.0
- 74
-     0
+  9
+BAT
  49
--3.0
+-2.54
  74
      0
   0
 LTYPE
   5
-26B4
+2BE5
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -2981,75 +2273,47 @@ Border __ __ . __ __ . __ __ . __ __ . __ __ .
   0
 LTYPE
   5
-26B7
+2BE6
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-BATTING
+ACAD_ISO10W100
  70
      0
   3
-Batting SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+ISO dash dot __ . __ . __ . __ . __ . __ . __ . 
  72
     65
  73
      4
  40
-10.16254
+18.0
  49
-0.00254
+12.0
  74
      0
  49
--2.54
+-3.0
  74
-     2
- 75
      0
-340
-26B5
- 46
-2.54
- 50
-0.0
- 44
--2.54
- 45
-0.0
-  9
-BAT
  49
--5.08
+0.0
  74
-     2
- 75
      0
-340
-26B6
- 46
-2.54
- 50
-180.0
- 44
-2.54
- 45
-0.0
-  9
-BAT
  49
--2.54
+-3.0
  74
      0
   0
 LTYPE
   5
-26B8
+2BE7
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -3093,27 +2357,35 @@ ISO double-dash dot __ __ . __ __ . __ __ . __ _
   0
 LTYPE
   5
-26B9
+2BE8
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-ACAD_ISO10W100
+ACAD_ISO12W100
  70
      0
   3
-ISO dash dot __ . __ . __ . __ . __ . __ . __ . 
+ISO dash double-dot __ . . __ . . __ . . __ . . 
  72
     65
  73
-     4
+     6
  40
-18.0
+21.0
  49
 12.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+0.0
  74
      0
  49
@@ -3131,9 +2403,9 @@ ISO dash dot __ . __ . __ . __ . __ . __ . __ .
   0
 LTYPE
   5
-26BA
+2BE9
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -3185,27 +2457,35 @@ ISO double-dash double-dot __ __ . . __ __ . . _
   0
 LTYPE
   5
-26BB
+2BEA
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-ACAD_ISO12W100
+ACAD_ISO06W100
  70
      0
   3
-ISO dash double-dot __ . . __ . . __ . . __ . . 
+ISO long-dash triple-dot ____ ... ____ ... ____
  72
     65
  73
-     6
+     8
  40
-21.0
+36.0
  49
-12.0
+24.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+0.0
  74
      0
  49
@@ -3231,25 +2511,469 @@ ISO dash double-dot __ . . __ . . __ . . __ . .
   0
 LTYPE
   5
-26BD
+2BEB
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-GAS_LINE
+ACAD_ISO07W100
  70
      0
   3
-Gas line ----GAS----GAS----GAS----GAS----GAS----GAS--
+ISO dot . . . . . . . . . . . . . . . . . . . . 
+ 72
+    65
+ 73
+     2
+ 40
+3.0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+  0
+LTYPE
+  5
+2BEC
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ACAD_ISO08W100
+ 70
+     0
+  3
+ISO long-dash short-dash ____ __ ____ __ ____ _
+ 72
+    65
+ 73
+     4
+ 40
+36.0
+ 49
+24.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+6.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+  0
+LTYPE
+  5
+2BED
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ACAD_ISO09W100
+ 70
+     0
+  3
+ISO long-dash double-short-dash ____ __ __ ____
+ 72
+    65
+ 73
+     6
+ 40
+45.0
+ 49
+24.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+6.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+6.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+  0
+LTYPE
+  5
+2BEE
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ACAD_ISO02W100
+ 70
+     0
+  3
+ISO dash __ __ __ __ __ __ __ __ __ __ __ __ __
+ 72
+    65
+ 73
+     2
+ 40
+15.0
+ 49
+12.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+  0
+LTYPE
+  5
+2BEF
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ACAD_ISO03W100
+ 70
+     0
+  3
+ISO dash space __    __    __    __    __    __
+ 72
+    65
+ 73
+     2
+ 40
+30.0
+ 49
+12.0
+ 74
+     0
+ 49
+-18.0
+ 74
+     0
+  0
+LTYPE
+  5
+2BF0
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ACAD_ISO04W100
+ 70
+     0
+  3
+ISO long-dash dot ____ . ____ . ____ . ____ . _
+ 72
+    65
+ 73
+     4
+ 40
+30.0
+ 49
+24.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+  0
+LTYPE
+  5
+2BF1
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ACAD_ISO05W100
+ 70
+     0
+  3
+ISO long-dash double-dot ____ .. ____ .. ____ . 
+ 72
+    65
+ 73
+     6
+ 40
+33.0
+ 49
+24.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.0
+ 74
+     0
+  0
+LTYPE
+  5
+2BF2
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOMX2
+ 70
+     0
+  3
+Phantom (2x) ____________    ____    ____   _
+ 72
+    65
+ 73
+     6
+ 40
+127.0
+ 49
+63.5
+ 74
+     0
+ 49
+-12.7
+ 74
+     0
+ 49
+12.7
+ 74
+     0
+ 49
+-12.7
+ 74
+     0
+ 49
+12.7
+ 74
+     0
+ 49
+-12.7
+ 74
+     0
+  0
+LTYPE
+  5
+2BF4
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+TRACKS
+ 70
+     0
+  3
+Tracks -|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
+ 72
+    65
+ 73
+     2
+ 40
+7.62
+ 49
+3.81
+ 74
+     2
+ 75
+     0
+340
+2BF3
+ 46
+6.35
+ 50
+0.0
+ 44
+0.0
+ 45
+0.0
+  9
+TRACK1
+ 49
+3.81
+ 74
+     0
+  0
+LTYPE
+  5
+2BF7
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ZIGZAG
+ 70
+     0
+  3
+Zig zag /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+ 72
+    65
+ 73
+     4
+ 40
+20.32254
+ 49
+0.00254
+ 74
+     0
+ 49
+-5.08
+ 74
+     2
+ 75
+     0
+340
+2BF5
+ 46
+5.08
+ 50
+0.0
+ 44
+-5.08
+ 45
+0.0
+  9
+ZIG
+ 49
+-10.16
+ 74
+     2
+ 75
+     0
+340
+2BF6
+ 46
+5.08
+ 50
+180.0
+ 44
+5.08
+ 45
+0.0
+  9
+ZIG
+ 49
+-5.08
+ 74
+     0
+  0
+LTYPE
+  5
+2BF8
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+HIDDENX2
+ 70
+     0
+  3
+Hidden (2x) ____ ____ ____ ____ ____ ____ ____ 
+ 72
+    65
+ 73
+     2
+ 40
+19.05
+ 49
+12.7
+ 74
+     0
+ 49
+-6.35
+ 74
+     0
+  0
+LTYPE
+  5
+2BFA
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+HOT_WATER_SUPPLY
+ 70
+     0
+  3
+Hot water supply ---- HW ---- HW ---- HW ----
  72
     65
  73
      3
  40
-24.13
+22.86
  49
 12.7
  74
@@ -3261,7 +2985,7 @@ Gas line ----GAS----GAS----GAS----GAS----GAS----GAS--
  75
      0
 340
-26BC
+2BF9
  46
 2.54
  50
@@ -3271,7 +2995,53 @@ Gas line ----GAS----GAS----GAS----GAS----GAS----GAS--
  45
 -1.27
   9
-GAS
+HW
+ 49
+-5.08
+ 74
+     0
+  0
+LTYPE
+  5
+2BFB
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOM
+ 70
+     0
+  3
+Phantom ______  __  __  ______  __  __  ______ 
+ 72
+    65
+ 73
+     6
+ 40
+63.50000000000001
+ 49
+31.75
+ 74
+     0
+ 49
+-6.35
+ 74
+     0
+ 49
+6.35
+ 74
+     0
+ 49
+-6.35
+ 74
+     0
+ 49
+6.35
+ 74
+     0
  49
 -6.35
  74
@@ -3279,9 +3049,55 @@ GAS
   0
 LTYPE
   5
-26BF
+2BFC
 330
-25EF
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOM2
+ 70
+     0
+  3
+Phantom (.5x) ___ _ _ ___ _ _ ___ _ _ ___ _ _
+ 72
+    65
+ 73
+     6
+ 40
+31.75
+ 49
+15.875
+ 74
+     0
+ 49
+-3.175
+ 74
+     0
+ 49
+3.175
+ 74
+     0
+ 49
+-3.175
+ 74
+     0
+ 49
+3.175
+ 74
+     0
+ 49
+-3.175
+ 74
+     0
+  0
+LTYPE
+  5
+2BFE
+330
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -3309,7 +3125,7 @@ Fenceline square ----[]-----[]----[]-----[]----[]---
  75
      0
 340
-26BE
+2BFD
  46
 2.54
  50
@@ -3331,39 +3147,57 @@ BOX
   0
 LTYPE
   5
-26C0
+2C00
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-HIDDEN2
+GAS_LINE
  70
      0
   3
-Hidden (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Gas line ----GAS----GAS----GAS----GAS----GAS----GAS--
  72
     65
  73
-     2
+     3
  40
-4.762499999999999
+24.13
  49
-3.175
+12.7
  74
      0
  49
--1.5875
+-5.08
+ 74
+     2
+ 75
+     0
+340
+2BFF
+ 46
+2.54
+ 50
+0.0
+ 44
+-2.54
+ 45
+-1.27
+  9
+GAS
+ 49
+-6.35
  74
      0
   0
 LTYPE
   5
-26C1
+2C01
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -3391,53 +3225,39 @@ Hidden __ __ __ __ __ __ __ __ __ __ __ __ __ __
   0
 LTYPE
   5
-26C3
+2C02
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
 AcDbLinetypeTableRecord
   2
-DRAINAGE
+HIDDEN2
  70
      0
   3
-Drainage ---->---->---->----
+Hidden (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
  72
     65
  73
      2
  40
-10.16
+4.762499999999999
  49
-5.08
+3.175
  74
-     2
- 75
      0
-340
-26C2
- 46
-2.54
- 50
-180.0
- 44
-0.0
- 45
-0.0
-  9
-RIGHT_ARROW
  49
-5.08
+-1.5875
  74
      0
   0
 LTYPE
   5
-26C4
+2C03
 330
-25EF
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -3465,9 +3285,97 @@ Dot (2x) .  .  .  .  .  .  .  .  .  .  .  .  .  .
   0
 LTYPE
   5
-26C6
+2C05
 330
-25EF
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DRAINAGE
+ 70
+     0
+  3
+Drainage ---->---->---->----
+ 72
+    65
+ 73
+     2
+ 40
+10.16
+ 49
+5.08
+ 74
+     2
+ 75
+     0
+340
+2C04
+ 46
+2.54
+ 50
+180.0
+ 44
+0.0
+ 45
+0.0
+  9
+RIGHT_ARROW
+ 49
+5.08
+ 74
+     0
+  0
+LTYPE
+  5
+2C07
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DRAINAGE2
+ 70
+     0
+  3
+Drainage reversed----<----<----<----
+ 72
+    65
+ 73
+     2
+ 40
+10.16
+ 49
+5.08
+ 74
+     2
+ 75
+     0
+340
+2C06
+ 46
+2.54
+ 50
+0.0
+ 44
+0.0
+ 45
+0.0
+  9
+RIGHT_ARROW
+ 49
+5.08
+ 74
+     0
+  0
+LTYPE
+  5
+2C09
+330
+2B34
 100
 AcDbSymbolTableRecord
 100
@@ -3495,7 +3403,7 @@ Fenceline circle ----0-----0----0-----0----0-----0--
  75
      0
 340
-26C5
+2C08
  46
 2.54
  50
@@ -3515,13 +3423,105 @@ CIRC1
  74
      0
   0
+LTYPE
+  5
+2C0A
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE2
+ 70
+     0
+  3
+Divide (.5x) __..__..__..__..__..__..__..__.._
+ 72
+    65
+ 73
+     6
+ 40
+15.875
+ 49
+6.35
+ 74
+     0
+ 49
+-3.175
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.175
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-3.175
+ 74
+     0
+  0
+LTYPE
+  5
+2C0B
+330
+2B34
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDEX2
+ 70
+     0
+  3
+Divide (2x) ________  .  .  ________  .  .  _
+ 72
+    65
+ 73
+     6
+ 40
+63.5
+ 49
+25.4
+ 74
+     0
+ 49
+-12.7
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-12.7
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-12.7
+ 74
+     0
+  0
 ENDTAB
   0
 TABLE
   2
 LAYER
   5
-25ED
+2B32
 330
 0
 100
@@ -3531,9 +3531,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-25FA
+2B3F
 330
-25ED
+2B32
 100
 AcDbSymbolTableRecord
 100
@@ -3551,241 +3551,17 @@ Continuous
 370
     25
 390
-25F9
+2B3E
 347
-262F
+2B74
 348
 0
   0
 LAYER
   5
-26C7
+2C0C
 330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-xSatellite
- 70
-     5
- 62
-  -178
-420
-        0
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26C8
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Ground cover
- 70
-     0
- 62
-   253
-420
- 10526884
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26C9
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Plant - Tree
- 70
-     0
- 62
-     3
-420
-    65280
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26CA
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Plant - Annual
- 70
-     0
- 62
-     3
-420
-    65280
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26CB
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Plant label
- 70
-     0
- 62
-    30
-420
- 16744192
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26CC
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Legend
- 70
-     0
- 62
-    40
-420
- 16759552
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26CD
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Boundary
- 70
-     0
- 62
-     1
-420
- 16711680
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26CE
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Furniture
- 70
-     0
- 62
-   136
-420
-    32896
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26CF
-330
-25ED
+2B32
 100
 AcDbSymbolTableRecord
 100
@@ -3803,185 +3579,73 @@ Continuous
 370
     25
 390
-25F9
+2B3E
 347
-262F
+2B74
 348
 0
   0
 LAYER
   5
-26D0
+2C0D
 330
-25ED
+2B32
 100
 AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Areas
+Legend
  70
      0
  62
-    30
+    40
 420
- 16744192
+ 16759552
   6
 Continuous
 370
     25
 390
-25F9
+2B3E
 347
-262F
+2B74
 348
 0
   0
 LAYER
   5
-26D1
+2C0E
 330
-25ED
+2B32
 100
 AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Beds
+xSatellite
  70
-     0
+     5
  62
-     2
+  -178
 420
- 16776960
+        0
   6
 Continuous
 370
     25
 390
-25F9
+2B3E
 347
-262F
+2B74
 348
 0
   0
 LAYER
   5
-26D2
+2C0F
 330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Plant - Shrub
- 70
-     0
- 62
-     3
-420
-    65280
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26D3
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Structures
- 70
-     0
- 62
-   136
-420
-    32896
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26D4
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Plant - Perennial
- 70
-     0
- 62
-     3
-420
-    65280
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26D5
-330
-25ED
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Buildings
- 70
-     0
- 62
-     6
-420
- 16711935
-  6
-Continuous
-370
-    25
-390
-25F9
-347
-262F
-348
-0
-  0
-LAYER
-  5
-26D6
-330
-25ED
+2B32
 100
 AcDbSymbolTableRecord
 100
@@ -3999,9 +3663,345 @@ Continuous
 370
     25
 390
-25F9
+2B3E
 347
-262F
+2B74
+348
+0
+  0
+LAYER
+  5
+2C10
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Beds
+ 70
+     0
+ 62
+     2
+420
+ 16776960
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C11
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Furniture
+ 70
+     0
+ 62
+   136
+420
+    32896
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C12
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Plant - Annual
+ 70
+     0
+ 62
+     3
+420
+    65280
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C13
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Ground cover
+ 70
+     0
+ 62
+   253
+420
+ 10526884
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C14
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Plant - Tree
+ 70
+     0
+ 62
+     3
+420
+    65280
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C15
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Areas
+ 70
+     0
+ 62
+    30
+420
+ 16744192
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C16
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Plant - Shrub
+ 70
+     0
+ 62
+     3
+420
+    65280
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C17
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Plant label
+ 70
+     0
+ 62
+    30
+420
+ 16744192
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C18
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Boundary
+ 70
+     0
+ 62
+     1
+420
+ 16711680
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C19
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Plant - Perennial
+ 70
+     0
+ 62
+     3
+420
+    65280
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C1A
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Buildings
+ 70
+     0
+ 62
+     6
+420
+ 16711935
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
+348
+0
+  0
+LAYER
+  5
+2C1B
+330
+2B32
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Structures
+ 70
+     0
+ 62
+   136
+420
+    32896
+  6
+Continuous
+370
+    25
+390
+2B3E
+347
+2B74
 348
 0
   0
@@ -4011,19 +4011,19 @@ TABLE
   2
 STYLE
   5
-25EE
+2B33
 330
 0
 100
 AcDbSymbolTable
  70
-   139
+   141
   0
 STYLE
   5
-25FB
+2B40
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4049,9 +4049,9 @@ txt
   0
 STYLE
   5
-268B
+2BD0
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4077,9 +4077,9 @@ txt
   0
 STYLE
   5
-268D
+2BE2
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4099,15 +4099,15 @@ textstyle0
  42
 0.2
   3
-qcadshp.shx
+ltypeshp.shx
   4
 
   0
 STYLE
   5
-2697
+2BE3
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4133,9 +4133,9 @@ ltypeshp.shx
   0
 STYLE
   5
-269A
+2BF3
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4161,9 +4161,9 @@ ltypeshp.shx
   0
 STYLE
   5
-269B
+2BF5
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4189,9 +4189,9 @@ ltypeshp.shx
   0
 STYLE
   5
-269D
+2BF6
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4211,15 +4211,15 @@ textstyle4
  42
 0.2
   3
-STANDARD
+ltypeshp.shx
   4
 
   0
 STYLE
   5
-26B5
+2BF9
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4239,15 +4239,15 @@ textstyle5
  42
 0.2
   3
-ltypeshp.shx
+STANDARD
   4
 
   0
 STYLE
   5
-26B6
+2BFD
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4273,9 +4273,9 @@ ltypeshp.shx
   0
 STYLE
   5
-26BC
+2BFF
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4301,9 +4301,9 @@ STANDARD
   0
 STYLE
   5
-26BE
+2C04
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4323,15 +4323,15 @@ textstyle8
  42
 0.2
   3
-ltypeshp.shx
+qcadshp.shx
   4
 
   0
 STYLE
   5
-26C2
+2C06
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4357,9 +4357,9 @@ qcadshp.shx
   0
 STYLE
   5
-26C5
+2C08
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4385,9 +4385,9 @@ ltypeshp.shx
   0
 STYLE
   5
-27A8
+2CF0
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4419,9 +4419,9 @@ Arial
   0
 STYLE
   5
-27A9
+2CF1
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4453,9 +4453,9 @@ Arial
   0
 STYLE
   5
-27AA
+2CF2
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4487,9 +4487,9 @@ Arial
   0
 STYLE
   5
-27AB
+2CF3
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4521,9 +4521,9 @@ Arial
   0
 STYLE
   5
-27AC
+2CF4
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4555,9 +4555,9 @@ Arial
   0
 STYLE
   5
-27AD
+2CF5
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4589,9 +4589,9 @@ Arial
   0
 STYLE
   5
-27AE
+2CF6
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4623,9 +4623,9 @@ Arial
   0
 STYLE
   5
-27AF
+2CF7
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4657,9 +4657,9 @@ Arial
   0
 STYLE
   5
-27B0
+2CF8
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4691,9 +4691,9 @@ Arial
   0
 STYLE
   5
-27B1
+2CF9
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4725,9 +4725,9 @@ Arial
   0
 STYLE
   5
-27B2
+2CFA
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4759,9 +4759,9 @@ Arial
   0
 STYLE
   5
-27B3
+2CFB
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4793,9 +4793,9 @@ Arial
   0
 STYLE
   5
-27B4
+2CFC
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4827,9 +4827,9 @@ Arial
   0
 STYLE
   5
-27B5
+2CFD
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4861,9 +4861,9 @@ Arial
   0
 STYLE
   5
-27B6
+2CFE
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4895,9 +4895,9 @@ Arial
   0
 STYLE
   5
-27B7
+2CFF
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4929,9 +4929,9 @@ Arial
   0
 STYLE
   5
-27B8
+2D00
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4963,9 +4963,9 @@ Arial
   0
 STYLE
   5
-27B9
+2D01
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -4997,9 +4997,9 @@ Arial
   0
 STYLE
   5
-27BA
+2D02
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5031,9 +5031,9 @@ Arial
   0
 STYLE
   5
-27BB
+2D03
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5065,9 +5065,9 @@ Arial
   0
 STYLE
   5
-27BC
+2D04
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5099,9 +5099,9 @@ Arial
   0
 STYLE
   5
-27BD
+2D05
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5133,9 +5133,9 @@ Arial
   0
 STYLE
   5
-27BE
+2D06
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5167,9 +5167,9 @@ Arial
   0
 STYLE
   5
-27BF
+2D07
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5201,9 +5201,9 @@ Arial
   0
 STYLE
   5
-27C0
+2D08
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5235,9 +5235,9 @@ Arial
   0
 STYLE
   5
-27C1
+2D09
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5269,9 +5269,9 @@ Arial
   0
 STYLE
   5
-27C2
+2D0A
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5303,9 +5303,9 @@ Arial
   0
 STYLE
   5
-27C3
+2D0B
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5337,9 +5337,9 @@ Arial
   0
 STYLE
   5
-27C4
+2D0C
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5371,9 +5371,9 @@ Arial
   0
 STYLE
   5
-27C5
+2D0D
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5405,9 +5405,9 @@ Arial
   0
 STYLE
   5
-27C6
+2D0E
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5439,9 +5439,9 @@ Arial
   0
 STYLE
   5
-27C7
+2D0F
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5473,9 +5473,9 @@ Arial
   0
 STYLE
   5
-27C8
+2D10
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5507,9 +5507,9 @@ Arial
   0
 STYLE
   5
-27C9
+2D11
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5541,9 +5541,9 @@ Arial
   0
 STYLE
   5
-27CA
+2D12
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5575,9 +5575,9 @@ Arial
   0
 STYLE
   5
-27CB
+2D13
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5609,9 +5609,9 @@ Arial
   0
 STYLE
   5
-27CC
+2D14
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5643,9 +5643,9 @@ Arial
   0
 STYLE
   5
-27CD
+2D15
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5677,9 +5677,9 @@ Arial
   0
 STYLE
   5
-27CE
+2D16
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5711,9 +5711,9 @@ Arial
   0
 STYLE
   5
-27CF
+2D17
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5745,9 +5745,9 @@ Arial
   0
 STYLE
   5
-27D0
+2D18
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5779,9 +5779,9 @@ Arial
   0
 STYLE
   5
-27D1
+2D19
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5813,9 +5813,9 @@ Arial
   0
 STYLE
   5
-27D2
+2D1A
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5847,9 +5847,9 @@ Arial
   0
 STYLE
   5
-27D3
+2D1B
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5881,9 +5881,9 @@ Arial
   0
 STYLE
   5
-27D4
+2D1C
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5915,9 +5915,9 @@ Arial
   0
 STYLE
   5
-27D5
+2D1D
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5949,9 +5949,9 @@ Arial
   0
 STYLE
   5
-27D6
+2D1E
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -5983,9 +5983,9 @@ Arial
   0
 STYLE
   5
-27D7
+2D1F
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6017,9 +6017,9 @@ Arial
   0
 STYLE
   5
-27D8
+2D20
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6051,9 +6051,9 @@ Arial
   0
 STYLE
   5
-27D9
+2D21
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6085,9 +6085,9 @@ Arial
   0
 STYLE
   5
-27DA
+2D22
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6119,9 +6119,9 @@ Arial
   0
 STYLE
   5
-27DB
+2D23
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6153,9 +6153,9 @@ Arial
   0
 STYLE
   5
-27DC
+2D24
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6187,9 +6187,9 @@ Arial
   0
 STYLE
   5
-27DD
+2D25
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6221,9 +6221,9 @@ Arial
   0
 STYLE
   5
-27DE
+2D26
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6255,9 +6255,9 @@ Arial
   0
 STYLE
   5
-27DF
+2D27
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6289,9 +6289,9 @@ Arial
   0
 STYLE
   5
-27E0
+2D28
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6323,9 +6323,9 @@ Arial
   0
 STYLE
   5
-27E1
+2D29
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6357,9 +6357,9 @@ Arial
   0
 STYLE
   5
-27E2
+2D2A
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6391,9 +6391,9 @@ Arial
   0
 STYLE
   5
-27E3
+2D2B
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6425,9 +6425,9 @@ Arial
   0
 STYLE
   5
-27E4
+2D2C
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6447,7 +6447,7 @@ textstyle71
  42
 0.2
   3
-Arial.ttf
+
   4
 
 1001
@@ -6459,9 +6459,9 @@ Arial
   0
 STYLE
   5
-27E5
+2D2D
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6493,9 +6493,9 @@ Arial
   0
 STYLE
   5
-27E6
+2D2E
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6527,9 +6527,9 @@ Arial
   0
 STYLE
   5
-27E7
+2D2F
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6561,9 +6561,9 @@ Arial
   0
 STYLE
   5
-27E8
+2D30
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6595,9 +6595,9 @@ Arial
   0
 STYLE
   5
-27E9
+2D31
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6629,9 +6629,9 @@ Arial
   0
 STYLE
   5
-27EA
+2D32
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6663,9 +6663,9 @@ Arial
   0
 STYLE
   5
-27EB
+2D33
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6697,9 +6697,9 @@ Arial
   0
 STYLE
   5
-27EC
+2D34
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6731,9 +6731,9 @@ Arial
   0
 STYLE
   5
-27ED
+2D35
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6765,9 +6765,9 @@ Arial
   0
 STYLE
   5
-27EE
+2D36
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6799,9 +6799,9 @@ Arial
   0
 STYLE
   5
-27EF
+2D37
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6833,9 +6833,9 @@ Arial
   0
 STYLE
   5
-27F0
+2D38
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6867,9 +6867,9 @@ Arial
   0
 STYLE
   5
-27F1
+2D39
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6901,9 +6901,9 @@ Arial
   0
 STYLE
   5
-27F2
+2D3A
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6935,9 +6935,9 @@ Arial
   0
 STYLE
   5
-27F3
+2D3B
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -6969,9 +6969,9 @@ Arial
   0
 STYLE
   5
-27F4
+2D3C
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7003,9 +7003,9 @@ Arial
   0
 STYLE
   5
-27F5
+2D3D
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7037,9 +7037,9 @@ Arial
   0
 STYLE
   5
-27F6
+2D3E
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7071,9 +7071,9 @@ Arial
   0
 STYLE
   5
-27F7
+2D3F
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7105,9 +7105,9 @@ Arial
   0
 STYLE
   5
-27F8
+2D40
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7139,9 +7139,9 @@ Arial
   0
 STYLE
   5
-27F9
+2D41
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7173,9 +7173,9 @@ Arial
   0
 STYLE
   5
-27FA
+2D42
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7207,9 +7207,9 @@ Arial
   0
 STYLE
   5
-27FB
+2D43
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7241,9 +7241,9 @@ Arial
   0
 STYLE
   5
-27FC
+2D44
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7275,9 +7275,9 @@ Arial
   0
 STYLE
   5
-27FD
+2D45
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7309,9 +7309,9 @@ Arial
   0
 STYLE
   5
-27FE
+2D46
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7343,9 +7343,9 @@ Arial
   0
 STYLE
   5
-27FF
+2D47
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7377,9 +7377,9 @@ Arial
   0
 STYLE
   5
-2800
+2D48
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7411,9 +7411,9 @@ Arial
   0
 STYLE
   5
-2801
+2D49
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7445,9 +7445,9 @@ Arial
   0
 STYLE
   5
-2802
+2D4A
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7479,9 +7479,9 @@ Arial
   0
 STYLE
   5
-2803
+2D4B
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7513,9 +7513,9 @@ Arial
   0
 STYLE
   5
-2804
+2D4C
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7547,9 +7547,9 @@ Arial
   0
 STYLE
   5
-2805
+2D4D
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7581,9 +7581,9 @@ Arial
   0
 STYLE
   5
-2806
+2D4E
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7615,9 +7615,9 @@ Arial
   0
 STYLE
   5
-2807
+2D4F
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7649,9 +7649,9 @@ Arial
   0
 STYLE
   5
-2808
+2D50
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7683,9 +7683,9 @@ Arial
   0
 STYLE
   5
-2809
+2D51
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7717,9 +7717,9 @@ Arial
   0
 STYLE
   5
-280A
+2D52
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7751,9 +7751,9 @@ Arial
   0
 STYLE
   5
-280B
+2D53
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7785,9 +7785,9 @@ Arial
   0
 STYLE
   5
-280C
+2D54
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7819,9 +7819,9 @@ Arial
   0
 STYLE
   5
-280D
+2D55
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7853,9 +7853,9 @@ Arial
   0
 STYLE
   5
-280E
+2D56
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7887,9 +7887,9 @@ Arial
   0
 STYLE
   5
-280F
+2D57
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7921,9 +7921,9 @@ Arial
   0
 STYLE
   5
-2810
+2D58
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7955,9 +7955,9 @@ Arial
   0
 STYLE
   5
-2814
+2D59
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -7989,9 +7989,9 @@ Arial
   0
 STYLE
   5
-2815
+2D5A
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8023,9 +8023,9 @@ Arial
   0
 STYLE
   5
-2816
+2D5E
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8057,9 +8057,9 @@ Arial
   0
 STYLE
   5
-2817
+2D5F
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8091,9 +8091,9 @@ Arial
   0
 STYLE
   5
-2818
+2D60
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8125,9 +8125,9 @@ Arial
   0
 STYLE
   5
-2819
+2D61
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8159,9 +8159,9 @@ Arial
   0
 STYLE
   5
-281A
+2D62
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8193,9 +8193,9 @@ Arial
   0
 STYLE
   5
-281B
+2D63
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8227,9 +8227,9 @@ Arial
   0
 STYLE
   5
-281C
+2D64
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8261,9 +8261,9 @@ Arial
   0
 STYLE
   5
-281D
+2D65
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8295,9 +8295,9 @@ Arial
   0
 STYLE
   5
-281E
+2D66
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8329,9 +8329,9 @@ Arial
   0
 STYLE
   5
-281F
+2D67
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8363,9 +8363,9 @@ Arial
   0
 STYLE
   5
-2820
+2D68
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8397,9 +8397,9 @@ Arial
   0
 STYLE
   5
-2821
+2D69
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8431,9 +8431,9 @@ Arial
   0
 STYLE
   5
-2822
+2D6A
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8465,9 +8465,9 @@ Arial
   0
 STYLE
   5
-2823
+2D6B
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8499,9 +8499,9 @@ Arial
   0
 STYLE
   5
-2824
+2D6C
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8533,9 +8533,9 @@ Arial
   0
 STYLE
   5
-2825
+2D6D
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8567,9 +8567,9 @@ Arial
   0
 STYLE
   5
-2826
+2D6E
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8601,9 +8601,9 @@ Arial
   0
 STYLE
   5
-2827
+2D6F
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8635,9 +8635,9 @@ Arial
   0
 STYLE
   5
-2828
+2D70
 330
-25EE
+2B33
 100
 AcDbSymbolTableRecord
 100
@@ -8667,13 +8667,81 @@ Arial
 1071
         0
   0
+STYLE
+  5
+2D71
+330
+2B33
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+textstyle137
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+
+  4
+
+1001
+ACAD
+1000
+Arial
+1071
+        0
+  0
+STYLE
+  5
+2D72
+330
+2B33
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+textstyle138
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+
+  4
+
+1001
+ACAD
+1000
+Arial
+1071
+        0
+  0
 ENDTAB
   0
 TABLE
   2
 VIEW
   5
-25F0
+2B35
 330
 0
 100
@@ -8687,7 +8755,7 @@ TABLE
   2
 UCS
   5
-25F1
+2B36
 330
 0
 100
@@ -8701,7 +8769,7 @@ TABLE
   2
 APPID
   5
-25F3
+2B38
 330
 0
 100
@@ -8711,9 +8779,9 @@ AcDbSymbolTable
   0
 APPID
   5
-25FC
+2B41
 330
-25F3
+2B38
 100
 AcDbSymbolTableRecord
 100
@@ -8725,9 +8793,9 @@ ACAD
   0
 APPID
   5
-2657
+2B9C
 330
-25F3
+2B38
 100
 AcDbSymbolTableRecord
 100
@@ -8743,7 +8811,7 @@ TABLE
   2
 DIMSTYLE
   5
-25F4
+2B39
 330
 0
 100
@@ -8755,9 +8823,9 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-2610
+2B55
 330
-25F4
+2B39
 100
 AcDbSymbolTableRecord
 100
@@ -8769,13 +8837,13 @@ Standard
 178
      0
 340
-25FB
+2B40
   0
 DIMSTYLE
 105
-268C
+2BD1
 330
-25F4
+2B39
 100
 AcDbSymbolTableRecord
 100
@@ -8801,7 +8869,7 @@ QCADDimStyle
 178
      0
 340
-268B
+2BD0
   0
 ENDTAB
   0
@@ -8809,19 +8877,19 @@ TABLE
   2
 BLOCK_RECORD
   5
-25EC
+2B31
 330
 0
 100
 AcDbSymbolTable
  70
-    69
+    70
   0
 BLOCK_RECORD
   5
-2608
+2B4D
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -8829,7 +8897,7 @@ AcDbBlockTableRecord
   2
 *Model_Space
 340
-260B
+2B50
  70
      0
 280
@@ -8839,9 +8907,9 @@ AcDbBlockTableRecord
   0
 BLOCK_RECORD
   5
-2604
+2B49
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -8849,7 +8917,7 @@ AcDbBlockTableRecord
   2
 *Paper_Space
 340
-2607
+2B4C
  70
      0
 280
@@ -8859,9 +8927,9 @@ AcDbBlockTableRecord
   0
 BLOCK_RECORD
   5
-26D9
+2C1E
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -8879,9 +8947,9 @@ Annual - Calendula officinalis
   0
 BLOCK_RECORD
   5
-26DC
+2C21
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -8905,9 +8973,9 @@ Areas - Decking
   0
 BLOCK_RECORD
   5
-26DF
+2C24
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -8933,9 +9001,9 @@ Bench
   0
 BLOCK_RECORD
   5
-26E2
+2C27
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -8965,9 +9033,9 @@ Buildings - Breakline
   0
 BLOCK_RECORD
   5
-26E5
+2C2A
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -8995,9 +9063,9 @@ DD7
   0
 BLOCK_RECORD
   5
-26E8
+2C2D
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9029,9 +9097,9 @@ D9E
   0
 BLOCK_RECORD
   5
-26EB
+2C30
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9055,9 +9123,9 @@ Buildings - House
   0
 BLOCK_RECORD
   5
-26EE
+2C33
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9081,9 +9149,9 @@ Buildings - Outdoor Office
   0
 BLOCK_RECORD
   5
-26F1
+2C36
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9119,9 +9187,9 @@ D8E
   0
 BLOCK_RECORD
   5
-26F4
+2C39
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9139,9 +9207,9 @@ Climber - Humulus lupulus
   0
 BLOCK_RECORD
   5
-26F7
+2C3C
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9159,9 +9227,9 @@ Cover - Pulmonaria officinalis
   0
 BLOCK_RECORD
   5
-26FA
+2C3F
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9189,9 +9257,9 @@ Fern - Asplenium scolopendrium
   0
 BLOCK_RECORD
   5
-26FD
+2C42
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9219,9 +9287,9 @@ Fern - Dryopteris affinis
   0
 BLOCK_RECORD
   5
-2700
+2C45
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9239,9 +9307,9 @@ Fern - Dryopteris filix-mas
   0
 BLOCK_RECORD
   5
-2703
+2C48
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9277,9 +9345,9 @@ Fern - Polypodium vulgare
   0
 BLOCK_RECORD
   5
-2706
+2C4B
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9303,9 +9371,9 @@ Furniture - Greenhouse
   0
 BLOCK_RECORD
   5
-2709
+2C4E
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9329,9 +9397,9 @@ D9B
   0
 BLOCK_RECORD
   5
-270C
+2C51
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9355,9 +9423,9 @@ Legend
   0
 BLOCK_RECORD
   5
-270F
+2C54
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9381,9 +9449,9 @@ Legend - scale
   0
 BLOCK_RECORD
   5
-2712
+2C57
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9411,9 +9479,9 @@ Ornamental - Centaurea nigra
   0
 BLOCK_RECORD
   5
-2715
+2C5A
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9443,9 +9511,9 @@ Ornamental - Pilosella aurantiaca
   0
 BLOCK_RECORD
   5
-2718
+2C5D
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9473,9 +9541,9 @@ Ornamental - Stachys sylvatica
   0
 BLOCK_RECORD
   5
-271B
+2C60
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9507,9 +9575,9 @@ Perennial - Achillea millefolium
   0
 BLOCK_RECORD
   5
-271E
+2C63
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9545,9 +9613,9 @@ Perennial - Filipendula ulmaria
   0
 BLOCK_RECORD
   5
-2721
+2C66
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9556,12 +9624,6 @@ AcDbBlockTableRecord
 Perennial - Hemerocallis citrina
 340
 0
-102
-{BLKREFS
-331
-2365
-102
-}
  70
      0
 280
@@ -9571,9 +9633,9 @@ Perennial - Hemerocallis citrina
   0
 BLOCK_RECORD
   5
-2724
+2C69
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9582,14 +9644,6 @@ AcDbBlockTableRecord
 Perennial - Hemerocallis dumortieri
 340
 0
-102
-{BLKREFS
-331
-2374
-331
-2420
-102
-}
  70
      0
 280
@@ -9599,9 +9653,9 @@ Perennial - Hemerocallis dumortieri
   0
 BLOCK_RECORD
   5
-2727
+2C6C
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9619,9 +9673,9 @@ Perennial - Hemerocallis fulva
   0
 BLOCK_RECORD
   5
-272A
+2C6F
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9630,14 +9684,6 @@ AcDbBlockTableRecord
 Perennial - Hemerocallis lilioasphodelus
 340
 0
-102
-{BLKREFS
-331
-2379
-331
-2421
-102
-}
  70
      0
 280
@@ -9647,9 +9693,9 @@ Perennial - Hemerocallis lilioasphodelus
   0
 BLOCK_RECORD
   5
-272D
+2C72
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9667,9 +9713,9 @@ Perennial - Hemerocallis middendorffii var. esculenta
   0
 BLOCK_RECORD
   5
-2730
+2C75
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9695,9 +9741,9 @@ Perennial - Hosta sieboldiana 'Elegans'
   0
 BLOCK_RECORD
   5
-2733
+2C78
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9729,9 +9775,9 @@ Perennial - Hosta Tardiana 'Halcyon'
   0
 BLOCK_RECORD
   5
-2736
+2C7B
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9759,9 +9805,9 @@ Perennial - Knautia arvensis
   0
 BLOCK_RECORD
   5
-2739
+2C7E
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9785,9 +9831,9 @@ Perennial - Myrrhis odorata
   0
 BLOCK_RECORD
   5
-273C
+2C81
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9821,9 +9867,9 @@ Perennial - Polygonatum multiflorum
   0
 BLOCK_RECORD
   5
-273F
+2C84
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9849,9 +9895,9 @@ Shrub - Aronia x prunifolia
   0
 BLOCK_RECORD
   5
-2742
+2C87
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9877,9 +9923,9 @@ Shrub - Gaultheria shallon
   0
 BLOCK_RECORD
   5
-2745
+2C8A
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9903,9 +9949,9 @@ Shrub - Lonicera periclymenum
   0
 BLOCK_RECORD
   5
-2748
+2C8D
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9929,9 +9975,9 @@ Shrub - Lonicera periclymenum 'Rhubarb + Custard'
   0
 BLOCK_RECORD
   5
-274B
+2C90
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9957,9 +10003,9 @@ Shrub - Passiflora incarnata
   0
 BLOCK_RECORD
   5
-274E
+2C93
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -9983,9 +10029,9 @@ Shrub - Rose 'Mary Delany'
   0
 BLOCK_RECORD
   5
-2751
+2C96
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10009,9 +10055,9 @@ Shrub - Rose'Mme Alfred Carrière'
   0
 BLOCK_RECORD
   5
-2754
+2C99
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10035,9 +10081,35 @@ Shrub - Ugni molinae
   0
 BLOCK_RECORD
   5
-2757
+2C9C
 330
-25EC
+2B31
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Shrub - Vaccinium corymbosum 'Northland'
+340
+0
+102
+{BLKREFS
+331
+2B2F
+102
+}
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+2C9F
+330
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10067,9 +10139,9 @@ Shrub - Vaccinium myrtillus
   0
 BLOCK_RECORD
   5
-275A
+2CA2
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10093,9 +10165,9 @@ Shrub - Vaccinium vitis-idaea
   0
 BLOCK_RECORD
   5
-275D
+2CA5
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10119,9 +10191,9 @@ Structure - Den
   0
 BLOCK_RECORD
   5
-2760
+2CA8
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10147,9 +10219,9 @@ Structure - Narrow planter
   0
 BLOCK_RECORD
   5
-2763
+2CAB
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10167,9 +10239,9 @@ Structure - Raised beds
   0
 BLOCK_RECORD
   5
-2766
+2CAE
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10205,9 +10277,9 @@ Structure - Step
   0
 BLOCK_RECORD
   5
-2769
+2CB1
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10231,9 +10303,9 @@ Structure - Steps
   0
 BLOCK_RECORD
   5
-276C
+2CB4
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10257,9 +10329,9 @@ Structure - Water bowl
   0
 BLOCK_RECORD
   5
-276F
+2CB7
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10283,9 +10355,9 @@ Structure - WoodBlocx raised bed
   0
 BLOCK_RECORD
   5
-2772
+2CBA
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10309,9 +10381,9 @@ Tree - Betula pendula
   0
 BLOCK_RECORD
   5
-2775
+2CBD
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10329,9 +10401,9 @@ Tree - Ilex aquifolium
   0
 BLOCK_RECORD
   5
-2778
+2CC0
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10361,9 +10433,9 @@ Tree - Malus domestica M9 wall
   0
 BLOCK_RECORD
   5
-277B
+2CC3
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10381,9 +10453,9 @@ Tree - Malus domestica MM106 wall
   0
 BLOCK_RECORD
   5
-277E
+2CC6
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10407,9 +10479,9 @@ Tree - Malus sylvestris M9
   0
 BLOCK_RECORD
   5
-2781
+2CC9
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10427,9 +10499,9 @@ Tree - Malus sylvestris M9 wall
   0
 BLOCK_RECORD
   5
-2784
+2CCC
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10463,9 +10535,9 @@ Tree - Oak
   0
 BLOCK_RECORD
   5
-2787
+2CCF
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10489,9 +10561,9 @@ Tree - Prunus armeniaca Pixy wall
   0
 BLOCK_RECORD
   5
-278A
+2CD2
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10509,9 +10581,9 @@ Tree - Prunus avium Gisela
   0
 BLOCK_RECORD
   5
-278D
+2CD5
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10535,9 +10607,9 @@ Tree - Prunus avium Gisela wall
   0
 BLOCK_RECORD
   5
-2790
+2CD8
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10555,9 +10627,9 @@ Tree - Prunus domestica Pixy
   0
 BLOCK_RECORD
   5
-2793
+2CDB
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10583,9 +10655,9 @@ Tree - Prunus domestica Pixy wall
   0
 BLOCK_RECORD
   5
-2796
+2CDE
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10603,9 +10675,9 @@ Tree - Pyrus communis Quince C wall
   0
 BLOCK_RECORD
   5
-2799
+2CE1
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10629,9 +10701,9 @@ Tree - Pyrus pyrifolia Quince C wall
   0
 BLOCK_RECORD
   5
-279C
+2CE4
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10655,9 +10727,9 @@ D89
   0
 BLOCK_RECORD
   5
-279F
+2CE7
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10683,9 +10755,9 @@ D65
   0
 BLOCK_RECORD
   5
-27A2
+2CEA
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10711,9 +10783,9 @@ DD4
   0
 BLOCK_RECORD
   5
-27A5
+2CED
 330
-25EC
+2B31
 100
 AcDbSymbolTableRecord
 100
@@ -10745,9 +10817,9 @@ BLOCKS
   0
 BLOCK
   5
-2609
+2B4E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -10771,9 +10843,9 @@ AcDbBlockBegin
   0
 ENDBLK
   5
-260A
+2B4F
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -10783,9 +10855,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2605
+2B4A
 330
-2604
+2B49
 100
 AcDbEntity
  67
@@ -10811,9 +10883,9 @@ AcDbBlockBegin
   0
 ENDBLK
   5
-2606
+2B4B
 330
-2604
+2B49
 100
 AcDbEntity
  67
@@ -10825,9 +10897,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26DA
+2C1F
 330
-26D9
+2C1E
 100
 AcDbEntity
   8
@@ -10853,7 +10925,7 @@ CIRCLE
   5
 442
 330
-26D9
+2C1E
 100
 AcDbEntity
   8
@@ -10873,7 +10945,7 @@ MTEXT
   5
 443
 330
-26D9
+2C1E
 100
 AcDbEntity
   8
@@ -10909,7 +10981,7 @@ MTEXT
   5
 444
 330
-26D9
+2C1E
 100
 AcDbEntity
   8
@@ -10943,9 +11015,9 @@ textstyle12
   0
 ENDBLK
   5
-26DB
+2C20
 330
-26D9
+2C1E
 100
 AcDbEntity
   8
@@ -10955,9 +11027,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26DD
+2C22
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -10983,7 +11055,7 @@ LWPOLYLINE
   5
 1055
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11021,7 +11093,7 @@ LWPOLYLINE
   5
 1058
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11059,7 +11131,7 @@ LWPOLYLINE
   5
 1059
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11097,7 +11169,7 @@ LWPOLYLINE
   5
 105A
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11135,7 +11207,7 @@ LWPOLYLINE
   5
 105B
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11173,7 +11245,7 @@ LWPOLYLINE
   5
 105C
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11211,7 +11283,7 @@ LWPOLYLINE
   5
 105D
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11249,7 +11321,7 @@ LWPOLYLINE
   5
 105E
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11287,7 +11359,7 @@ LWPOLYLINE
   5
 105F
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11325,7 +11397,7 @@ LWPOLYLINE
   5
 1060
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11363,7 +11435,7 @@ LWPOLYLINE
   5
 1061
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11401,7 +11473,7 @@ LWPOLYLINE
   5
 1062
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11439,7 +11511,7 @@ LWPOLYLINE
   5
 1063
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11477,7 +11549,7 @@ LWPOLYLINE
   5
 1064
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11515,7 +11587,7 @@ LWPOLYLINE
   5
 1065
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11553,7 +11625,7 @@ LWPOLYLINE
   5
 1066
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11591,7 +11663,7 @@ LWPOLYLINE
   5
 1067
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11629,7 +11701,7 @@ LWPOLYLINE
   5
 1068
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11667,7 +11739,7 @@ LWPOLYLINE
   5
 1069
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11705,7 +11777,7 @@ LWPOLYLINE
   5
 106A
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11743,7 +11815,7 @@ LWPOLYLINE
   5
 106B
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11781,7 +11853,7 @@ LWPOLYLINE
   5
 106C
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11819,7 +11891,7 @@ LWPOLYLINE
   5
 106D
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11857,7 +11929,7 @@ LWPOLYLINE
   5
 106E
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11895,7 +11967,7 @@ LWPOLYLINE
   5
 106F
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11933,7 +12005,7 @@ LWPOLYLINE
   5
 1070
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -11971,7 +12043,7 @@ LWPOLYLINE
   5
 1071
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -12009,7 +12081,7 @@ LWPOLYLINE
   5
 1072
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -12047,7 +12119,7 @@ LWPOLYLINE
   5
 1073
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -12083,9 +12155,9 @@ AcDbPolyline
   0
 ENDBLK
   5
-26DE
+2C23
 330
-26DC
+2C21
 100
 AcDbEntity
   8
@@ -12095,9 +12167,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26E0
+2C25
 330
-26DF
+2C24
 100
 AcDbEntity
   8
@@ -12123,7 +12195,7 @@ LWPOLYLINE
   5
 1340
 330
-26DF
+2C24
 100
 AcDbEntity
   8
@@ -12157,7 +12229,7 @@ MTEXT
   5
 1341
 330
-26DF
+2C24
 100
 AcDbEntity
   8
@@ -12195,9 +12267,9 @@ textstyle13
   0
 ENDBLK
   5
-26E1
+2C26
 330
-26DF
+2C24
 100
 AcDbEntity
   8
@@ -12207,9 +12279,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26E3
+2C28
 330
-26E2
+2C27
 100
 AcDbEntity
   8
@@ -12235,7 +12307,7 @@ LINE
   5
 102B
 330
-26E2
+2C27
 100
 AcDbEntity
   8
@@ -12259,7 +12331,7 @@ LINE
   5
 1027
 330
-26E2
+2C27
 100
 AcDbEntity
   8
@@ -12283,7 +12355,7 @@ LINE
   5
 1028
 330
-26E2
+2C27
 100
 AcDbEntity
   8
@@ -12307,7 +12379,7 @@ LINE
   5
 1029
 330
-26E2
+2C27
 100
 AcDbEntity
   8
@@ -12331,7 +12403,7 @@ LINE
   5
 102A
 330
-26E2
+2C27
 100
 AcDbEntity
   8
@@ -12353,9 +12425,9 @@ AcDbLine
   0
 ENDBLK
   5
-26E4
+2C29
 330
-26E2
+2C27
 100
 AcDbEntity
   8
@@ -12365,9 +12437,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26E6
+2C2B
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12393,7 +12465,7 @@ LINE
   5
 DB1
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12417,7 +12489,7 @@ LINE
   5
 DAF
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12441,7 +12513,7 @@ LWPOLYLINE
   5
 DAD
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12467,7 +12539,7 @@ ARC
   5
 DAE
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12493,7 +12565,7 @@ LWPOLYLINE
   5
 DAB
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12543,7 +12615,7 @@ LINE
   5
 DAC
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12567,7 +12639,7 @@ LINE
   5
 DB6
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12591,7 +12663,7 @@ LINE
   5
 DB7
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12615,7 +12687,7 @@ LINE
   5
 DB4
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12639,7 +12711,7 @@ LINE
   5
 DB5
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12663,7 +12735,7 @@ LINE
   5
 DB2
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12687,7 +12759,7 @@ LINE
   5
 DB3
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12711,7 +12783,7 @@ LINE
   5
 DB0
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12733,9 +12805,9 @@ AcDbLine
   0
 ENDBLK
   5
-26E7
+2C2C
 330
-26E5
+2C2A
 100
 AcDbEntity
   8
@@ -12745,9 +12817,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26E9
+2C2E
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -12773,7 +12845,7 @@ LINE
   5
 D7C
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -12797,7 +12869,7 @@ LINE
   5
 D7D
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -12821,7 +12893,7 @@ LWPOLYLINE
   5
 D7E
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -12847,7 +12919,7 @@ ARC
   5
 D7F
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -12873,7 +12945,7 @@ LWPOLYLINE
   5
 D80
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -12923,7 +12995,7 @@ LINE
   5
 D81
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -12947,7 +13019,7 @@ LINE
   5
 D82
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -12971,7 +13043,7 @@ LINE
   5
 D76
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -12995,7 +13067,7 @@ LINE
   5
 D77
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -13019,7 +13091,7 @@ LINE
   5
 D78
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -13043,7 +13115,7 @@ LINE
   5
 D79
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -13067,7 +13139,7 @@ LINE
   5
 D7A
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -13091,7 +13163,7 @@ LINE
   5
 D7B
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -13113,9 +13185,9 @@ AcDbLine
   0
 ENDBLK
   5
-26EA
+2C2F
 330
-26E8
+2C2D
 100
 AcDbEntity
   8
@@ -13125,9 +13197,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26EC
+2C31
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13153,7 +13225,7 @@ INSERT
   5
 D83
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13179,7 +13251,7 @@ LWPOLYLINE
   5
 D59
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13217,7 +13289,7 @@ LINE
   5
 D5C
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13241,7 +13313,7 @@ LINE
   5
 D5D
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13265,7 +13337,7 @@ LWPOLYLINE
   5
 DDA
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13299,7 +13371,7 @@ INSERT
   5
 D89
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13319,7 +13391,7 @@ INSERT
   5
 D9B
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13341,7 +13413,7 @@ INSERT
   5
 D9C
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13367,7 +13439,7 @@ INSERT
   5
 D9F
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13393,7 +13465,7 @@ INSERT
   5
 D9D
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13419,7 +13491,7 @@ INSERT
   5
 DA4
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13443,7 +13515,7 @@ INSERT
   5
 DA9
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13465,7 +13537,7 @@ INSERT
   5
 D9E
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13489,7 +13561,7 @@ INSERT
   5
 DBB
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13511,7 +13583,7 @@ INSERT
   5
 DBD
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13535,7 +13607,7 @@ INSERT
   5
 DC0
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13561,7 +13633,7 @@ MTEXT
   5
 DDB
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13597,7 +13669,7 @@ INSERT
   5
 DB8
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13623,7 +13695,7 @@ INSERT
   5
 D8E
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13649,7 +13721,7 @@ INSERT
   5
 D65
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13671,9 +13743,9 @@ Utilities - Drain Pipe
   0
 ENDBLK
   5
-26ED
+2C32
 330
-26EB
+2C30
 100
 AcDbEntity
   8
@@ -13683,9 +13755,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26EF
+2C34
 330
-26EE
+2C33
 100
 AcDbEntity
   8
@@ -13711,7 +13783,7 @@ LWPOLYLINE
   5
 1048
 330
-26EE
+2C33
 100
 AcDbEntity
   8
@@ -13745,7 +13817,7 @@ INSERT
   5
 1049
 330
-26EE
+2C33
 100
 AcDbEntity
   8
@@ -13771,7 +13843,7 @@ INSERT
   5
 104E
 330
-26EE
+2C33
 100
 AcDbEntity
   8
@@ -13795,7 +13867,7 @@ INSERT
   5
 1050
 330
-26EE
+2C33
 100
 AcDbEntity
   8
@@ -13819,9 +13891,9 @@ Buildings - Door outward
   0
 ENDBLK
   5
-26F0
+2C35
 330
-26EE
+2C33
 100
 AcDbEntity
   8
@@ -13831,9 +13903,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26F2
+2C37
 330
-26F1
+2C36
 100
 AcDbEntity
   8
@@ -13859,7 +13931,7 @@ LWPOLYLINE
   5
 D8D
 330
-26F1
+2C36
 100
 AcDbEntity
   8
@@ -13891,9 +13963,9 @@ AcDbPolyline
   0
 ENDBLK
   5
-26F3
+2C38
 330
-26F1
+2C36
 100
 AcDbEntity
   8
@@ -13903,9 +13975,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26F5
+2C3A
 330
-26F4
+2C39
 100
 AcDbEntity
   8
@@ -13931,7 +14003,7 @@ LWPOLYLINE
   5
 430
 330
-26F4
+2C39
 100
 AcDbEntity
   8
@@ -13965,7 +14037,7 @@ MTEXT
   5
 431
 330
-26F4
+2C39
 100
 AcDbEntity
   8
@@ -14001,7 +14073,7 @@ MTEXT
   5
 432
 330
-26F4
+2C39
 100
 AcDbEntity
   8
@@ -14035,9 +14107,9 @@ textstyle16
   0
 ENDBLK
   5
-26F6
+2C3B
 330
-26F4
+2C39
 100
 AcDbEntity
   8
@@ -14047,9 +14119,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26F8
+2C3D
 330
-26F7
+2C3C
 100
 AcDbEntity
   8
@@ -14075,7 +14147,7 @@ MTEXT
   5
 23E0
 330
-26F7
+2C3C
 100
 AcDbEntity
   8
@@ -14111,7 +14183,7 @@ MTEXT
   5
 23E1
 330
-26F7
+2C3C
 100
 AcDbEntity
   8
@@ -14145,9 +14217,9 @@ textstyle18
   0
 ENDBLK
   5
-26F9
+2C3E
 330
-26F7
+2C3C
 100
 AcDbEntity
   8
@@ -14157,9 +14229,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26FB
+2C40
 330
-26FA
+2C3F
 100
 AcDbEntity
   8
@@ -14185,7 +14257,7 @@ CIRCLE
   5
 23EB
 330
-26FA
+2C3F
 100
 AcDbEntity
   8
@@ -14207,7 +14279,7 @@ MTEXT
   5
 23ED
 330
-26FA
+2C3F
 100
 AcDbEntity
   8
@@ -14243,7 +14315,7 @@ MTEXT
   5
 23EC
 330
-26FA
+2C3F
 100
 AcDbEntity
   8
@@ -14277,9 +14349,9 @@ textstyle20
   0
 ENDBLK
   5
-26FC
+2C41
 330
-26FA
+2C3F
 100
 AcDbEntity
   8
@@ -14289,9 +14361,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-26FE
+2C43
 330
-26FD
+2C42
 100
 AcDbEntity
   8
@@ -14317,7 +14389,7 @@ CIRCLE
   5
 2009
 330
-26FD
+2C42
 100
 AcDbEntity
   8
@@ -14339,7 +14411,7 @@ MTEXT
   5
 200A
 330
-26FD
+2C42
 100
 AcDbEntity
   8
@@ -14375,7 +14447,7 @@ MTEXT
   5
 200B
 330
-26FD
+2C42
 100
 AcDbEntity
   8
@@ -14409,9 +14481,9 @@ textstyle22
   0
 ENDBLK
   5
-26FF
+2C44
 330
-26FD
+2C42
 100
 AcDbEntity
   8
@@ -14421,9 +14493,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2701
+2C46
 330
-2700
+2C45
 100
 AcDbEntity
   8
@@ -14449,7 +14521,7 @@ CIRCLE
   5
 200F
 330
-2700
+2C45
 100
 AcDbEntity
   8
@@ -14471,7 +14543,7 @@ MTEXT
   5
 2011
 330
-2700
+2C45
 100
 AcDbEntity
   8
@@ -14507,7 +14579,7 @@ MTEXT
   5
 2010
 330
-2700
+2C45
 100
 AcDbEntity
   8
@@ -14541,9 +14613,9 @@ textstyle24
   0
 ENDBLK
   5
-2702
+2C47
 330
-2700
+2C45
 100
 AcDbEntity
   8
@@ -14553,9 +14625,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2704
+2C49
 330
-2703
+2C48
 100
 AcDbEntity
   8
@@ -14581,7 +14653,7 @@ CIRCLE
   5
 201E
 330
-2703
+2C48
 100
 AcDbEntity
   8
@@ -14603,7 +14675,7 @@ MTEXT
   5
 201F
 330
-2703
+2C48
 100
 AcDbEntity
   8
@@ -14639,7 +14711,7 @@ MTEXT
   5
 201D
 330
-2703
+2C48
 100
 AcDbEntity
   8
@@ -14673,9 +14745,9 @@ textstyle26
   0
 ENDBLK
   5
-2705
+2C4A
 330
-2703
+2C48
 100
 AcDbEntity
   8
@@ -14685,9 +14757,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2707
+2C4C
 330
-2706
+2C4B
 100
 AcDbEntity
   8
@@ -14713,7 +14785,7 @@ MTEXT
   5
 1AEA
 330
-2706
+2C4B
 100
 AcDbEntity
   8
@@ -14749,7 +14821,7 @@ LWPOLYLINE
   5
 1AE7
 330
-2706
+2C4B
 100
 AcDbEntity
   8
@@ -14781,9 +14853,9 @@ AcDbPolyline
   0
 ENDBLK
   5
-2708
+2C4D
 330
-2706
+2C4B
 100
 AcDbEntity
   8
@@ -14793,9 +14865,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-270A
+2C4F
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -14821,7 +14893,7 @@ LWPOLYLINE
   5
 D93
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -14903,7 +14975,7 @@ LWPOLYLINE
   5
 D99
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -14977,7 +15049,7 @@ LWPOLYLINE
   5
 D95
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -15005,7 +15077,7 @@ LWPOLYLINE
   5
 D92
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -15033,7 +15105,7 @@ LWPOLYLINE
   5
 D97
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -15061,7 +15133,7 @@ LWPOLYLINE
   5
 D94
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -15087,7 +15159,7 @@ LWPOLYLINE
   5
 D98
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -15113,7 +15185,7 @@ LWPOLYLINE
   5
 D96
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -15139,7 +15211,7 @@ LWPOLYLINE
   5
 D9A
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -15163,9 +15235,9 @@ AcDbPolyline
   0
 ENDBLK
   5
-270B
+2C50
 330
-2709
+2C4E
 100
 AcDbEntity
   8
@@ -15175,9 +15247,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-270D
+2C52
 330
-270C
+2C51
 100
 AcDbEntity
   8
@@ -15203,7 +15275,7 @@ LWPOLYLINE
   5
 D4D
 330
-270C
+2C51
 100
 AcDbEntity
   8
@@ -15245,7 +15317,7 @@ LWPOLYLINE
   5
 D4E
 330
-270C
+2C51
 100
 AcDbEntity
   8
@@ -15271,7 +15343,7 @@ MTEXT
   5
 D4F
 330
-270C
+2C51
 100
 AcDbEntity
   8
@@ -15313,7 +15385,7 @@ MTEXT
   5
 D50
 330
-270C
+2C51
 100
 AcDbEntity
   8
@@ -15355,7 +15427,7 @@ MTEXT
   5
 D51
 330
-270C
+2C51
 100
 AcDbEntity
   8
@@ -15397,7 +15469,7 @@ MTEXT
   5
 D52
 330
-270C
+2C51
 100
 AcDbEntity
   8
@@ -15439,7 +15511,7 @@ LINE
   5
 D53
 330
-270C
+2C51
 100
 AcDbEntity
   8
@@ -15461,9 +15533,9 @@ AcDbLine
   0
 ENDBLK
   5
-270E
+2C53
 330
-270C
+2C51
 100
 AcDbEntity
   8
@@ -15473,9 +15545,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2710
+2C55
 330
-270F
+2C54
 100
 AcDbEntity
   8
@@ -15501,7 +15573,7 @@ LINE
   5
 D48
 330
-270F
+2C54
 100
 AcDbEntity
   8
@@ -15525,7 +15597,7 @@ LINE
   5
 D49
 330
-270F
+2C54
 100
 AcDbEntity
   8
@@ -15549,7 +15621,7 @@ LINE
   5
 D4A
 330
-270F
+2C54
 100
 AcDbEntity
   8
@@ -15573,7 +15645,7 @@ MTEXT
   5
 D4B
 330
-270F
+2C54
 100
 AcDbEntity
   8
@@ -15607,9 +15679,9 @@ textstyle32
   0
 ENDBLK
   5
-2711
+2C56
 330
-270F
+2C54
 100
 AcDbEntity
   8
@@ -15619,9 +15691,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2713
+2C58
 330
-2712
+2C57
 100
 AcDbEntity
   8
@@ -15647,7 +15719,7 @@ CIRCLE
   5
 23E6
 330
-2712
+2C57
 100
 AcDbEntity
   8
@@ -15667,7 +15739,7 @@ MTEXT
   5
 23E7
 330
-2712
+2C57
 100
 AcDbEntity
   8
@@ -15703,7 +15775,7 @@ MTEXT
   5
 23E8
 330
-2712
+2C57
 100
 AcDbEntity
   8
@@ -15737,9 +15809,9 @@ textstyle34
   0
 ENDBLK
   5
-2714
+2C59
 330
-2712
+2C57
 100
 AcDbEntity
   8
@@ -15749,9 +15821,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2716
+2C5B
 330
-2715
+2C5A
 100
 AcDbEntity
   8
@@ -15777,7 +15849,7 @@ CIRCLE
   5
 23D5
 330
-2715
+2C5A
 100
 AcDbEntity
   8
@@ -15801,7 +15873,7 @@ MTEXT
   5
 23D6
 330
-2715
+2C5A
 100
 AcDbEntity
   8
@@ -15837,7 +15909,7 @@ MTEXT
   5
 23D7
 330
-2715
+2C5A
 100
 AcDbEntity
   8
@@ -15871,9 +15943,9 @@ textstyle36
   0
 ENDBLK
   5
-2717
+2C5C
 330
-2715
+2C5A
 100
 AcDbEntity
   8
@@ -15883,9 +15955,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2719
+2C5E
 330
-2718
+2C5D
 100
 AcDbEntity
   8
@@ -15911,7 +15983,7 @@ CIRCLE
   5
 23CE
 330
-2718
+2C5D
 100
 AcDbEntity
   8
@@ -15931,7 +16003,7 @@ MTEXT
   5
 23CF
 330
-2718
+2C5D
 100
 AcDbEntity
   8
@@ -15967,7 +16039,7 @@ MTEXT
   5
 23D0
 330
-2718
+2C5D
 100
 AcDbEntity
   8
@@ -16001,9 +16073,9 @@ textstyle38
   0
 ENDBLK
   5
-271A
+2C5F
 330
-2718
+2C5D
 100
 AcDbEntity
   8
@@ -16013,9 +16085,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-271C
+2C61
 330
-271B
+2C60
 100
 AcDbEntity
   8
@@ -16041,7 +16113,7 @@ CIRCLE
   5
 23C8
 330
-271B
+2C60
 100
 AcDbEntity
   8
@@ -16061,7 +16133,7 @@ MTEXT
   5
 23C6
 330
-271B
+2C60
 100
 AcDbEntity
   8
@@ -16097,7 +16169,7 @@ MTEXT
   5
 23C7
 330
-271B
+2C60
 100
 AcDbEntity
   8
@@ -16131,9 +16203,9 @@ textstyle40
   0
 ENDBLK
   5
-271D
+2C62
 330
-271B
+2C60
 100
 AcDbEntity
   8
@@ -16143,9 +16215,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-271F
+2C64
 330
-271E
+2C63
 100
 AcDbEntity
   8
@@ -16171,7 +16243,7 @@ CIRCLE
   5
 23FA
 330
-271E
+2C63
 100
 AcDbEntity
   8
@@ -16191,7 +16263,7 @@ MTEXT
   5
 23FB
 330
-271E
+2C63
 100
 AcDbEntity
   8
@@ -16227,7 +16299,7 @@ MTEXT
   5
 23FC
 330
-271E
+2C63
 100
 AcDbEntity
   8
@@ -16261,9 +16333,9 @@ textstyle42
   0
 ENDBLK
   5
-2720
+2C65
 330
-271E
+2C63
 100
 AcDbEntity
   8
@@ -16273,9 +16345,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2722
+2C67
 330
-2721
+2C66
 100
 AcDbEntity
   8
@@ -16301,7 +16373,7 @@ MTEXT
   5
 2363
 330
-2721
+2C66
 100
 AcDbEntity
   8
@@ -16337,7 +16409,7 @@ MTEXT
   5
 2362
 330
-2721
+2C66
 100
 AcDbEntity
   8
@@ -16373,7 +16445,7 @@ CIRCLE
   5
 2364
 330
-2721
+2C66
 100
 AcDbEntity
   8
@@ -16391,9 +16463,9 @@ AcDbCircle
   0
 ENDBLK
   5
-2723
+2C68
 330
-2721
+2C66
 100
 AcDbEntity
   8
@@ -16403,9 +16475,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2725
+2C6A
 330
-2724
+2C69
 100
 AcDbEntity
   8
@@ -16431,7 +16503,7 @@ MTEXT
   5
 2371
 330
-2724
+2C69
 100
 AcDbEntity
   8
@@ -16467,7 +16539,7 @@ MTEXT
   5
 2373
 330
-2724
+2C69
 100
 AcDbEntity
   8
@@ -16503,7 +16575,7 @@ CIRCLE
   5
 2372
 330
-2724
+2C69
 100
 AcDbEntity
   8
@@ -16521,9 +16593,9 @@ AcDbCircle
   0
 ENDBLK
   5
-2726
+2C6B
 330
-2724
+2C69
 100
 AcDbEntity
   8
@@ -16533,9 +16605,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2728
+2C6D
 330
-2727
+2C6C
 100
 AcDbEntity
   8
@@ -16561,7 +16633,7 @@ MTEXT
   5
 236E
 330
-2727
+2C6C
 100
 AcDbEntity
   8
@@ -16597,7 +16669,7 @@ MTEXT
   5
 236C
 330
-2727
+2C6C
 100
 AcDbEntity
   8
@@ -16633,7 +16705,7 @@ CIRCLE
   5
 236D
 330
-2727
+2C6C
 100
 AcDbEntity
   8
@@ -16651,9 +16723,9 @@ AcDbCircle
   0
 ENDBLK
   5
-2729
+2C6E
 330
-2727
+2C6C
 100
 AcDbEntity
   8
@@ -16663,9 +16735,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-272B
+2C70
 330
-272A
+2C6F
 100
 AcDbEntity
   8
@@ -16691,7 +16763,7 @@ MTEXT
   5
 2378
 330
-272A
+2C6F
 100
 AcDbEntity
   8
@@ -16727,7 +16799,7 @@ MTEXT
   5
 2377
 330
-272A
+2C6F
 100
 AcDbEntity
   8
@@ -16763,7 +16835,7 @@ CIRCLE
   5
 2376
 330
-272A
+2C6F
 100
 AcDbEntity
   8
@@ -16781,9 +16853,9 @@ AcDbCircle
   0
 ENDBLK
   5
-272C
+2C71
 330
-272A
+2C6F
 100
 AcDbEntity
   8
@@ -16793,9 +16865,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-272E
+2C73
 330
-272D
+2C72
 100
 AcDbEntity
   8
@@ -16821,7 +16893,7 @@ MTEXT
   5
 2368
 330
-272D
+2C72
 100
 AcDbEntity
   8
@@ -16857,7 +16929,7 @@ MTEXT
   5
 2369
 330
-272D
+2C72
 100
 AcDbEntity
   8
@@ -16893,7 +16965,7 @@ CIRCLE
   5
 2367
 330
-272D
+2C72
 100
 AcDbEntity
   8
@@ -16911,9 +16983,9 @@ AcDbCircle
   0
 ENDBLK
   5
-272F
+2C74
 330
-272D
+2C72
 100
 AcDbEntity
   8
@@ -16923,9 +16995,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2731
+2C76
 330
-2730
+2C75
 100
 AcDbEntity
   8
@@ -16951,7 +17023,7 @@ MTEXT
   5
 2035
 330
-2730
+2C75
 100
 AcDbEntity
   8
@@ -16987,7 +17059,7 @@ CIRCLE
   5
 2036
 330
-2730
+2C75
 100
 AcDbEntity
   8
@@ -17007,7 +17079,7 @@ MTEXT
   5
 2351
 330
-2730
+2C75
 100
 AcDbEntity
   8
@@ -17041,9 +17113,9 @@ textstyle54
   0
 ENDBLK
   5
-2732
+2C77
 330
-2730
+2C75
 100
 AcDbEntity
   8
@@ -17053,9 +17125,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2734
+2C79
 330
-2733
+2C78
 100
 AcDbEntity
   8
@@ -17081,7 +17153,7 @@ MTEXT
   5
 234A
 330
-2733
+2C78
 100
 AcDbEntity
   8
@@ -17121,7 +17193,7 @@ MTEXT
   5
 234C
 330
-2733
+2C78
 100
 AcDbEntity
   8
@@ -17161,7 +17233,7 @@ CIRCLE
   5
 234E
 330
-2733
+2C78
 100
 AcDbEntity
   8
@@ -17179,9 +17251,9 @@ AcDbCircle
   0
 ENDBLK
   5
-2735
+2C7A
 330
-2733
+2C78
 100
 AcDbEntity
   8
@@ -17191,9 +17263,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2737
+2C7C
 330
-2736
+2C7B
 100
 AcDbEntity
   8
@@ -17219,7 +17291,7 @@ CIRCLE
   5
 242A
 330
-2736
+2C7B
 100
 AcDbEntity
   8
@@ -17239,7 +17311,7 @@ MTEXT
   5
 2429
 330
-2736
+2C7B
 100
 AcDbEntity
   8
@@ -17265,7 +17337,7 @@ AcDbMText
   1
 \c32767;Knautia arvenis\P1m x 0.4m
   7
-textstyle57
+textstyle59
  73
      1
  44
@@ -17275,7 +17347,7 @@ MTEXT
   5
 2428
 330
-2736
+2C7B
 100
 AcDbEntity
   8
@@ -17301,7 +17373,7 @@ AcDbMText
   1
 \c32767;Field\PScabious
   7
-textstyle58
+textstyle60
  73
      1
  44
@@ -17309,9 +17381,9 @@ textstyle58
   0
 ENDBLK
   5
-2738
+2C7D
 330
-2736
+2C7B
 100
 AcDbEntity
   8
@@ -17321,9 +17393,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-273A
+2C7F
 330
-2739
+2C7E
 100
 AcDbEntity
   8
@@ -17349,7 +17421,7 @@ CIRCLE
   5
 2402
 330
-2739
+2C7E
 100
 AcDbEntity
   8
@@ -17369,7 +17441,7 @@ MTEXT
   5
 2403
 330
-2739
+2C7E
 100
 AcDbEntity
   8
@@ -17395,7 +17467,7 @@ AcDbMText
   1
 \c32767;Myrrhis odorata\P1m x 1m
   7
-textstyle59
+textstyle61
  73
      1
  44
@@ -17405,7 +17477,7 @@ MTEXT
   5
 2404
 330
-2739
+2C7E
 100
 AcDbEntity
   8
@@ -17431,7 +17503,7 @@ AcDbMText
   1
 \c32767;Sweet Cicely
   7
-textstyle60
+textstyle62
  73
      1
  44
@@ -17439,9 +17511,9 @@ textstyle60
   0
 ENDBLK
   5
-273B
+2C80
 330
-2739
+2C7E
 100
 AcDbEntity
   8
@@ -17451,9 +17523,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-273D
+2C82
 330
-273C
+2C81
 100
 AcDbEntity
   8
@@ -17479,7 +17551,7 @@ MTEXT
   5
 2418
 330
-273C
+2C81
 100
 AcDbEntity
   8
@@ -17505,7 +17577,7 @@ AcDbMText
   1
 \c32767;Polygonatum multiflorum\P1.2m x 0.3m
   7
-textstyle61
+textstyle63
  73
      1
  44
@@ -17515,7 +17587,7 @@ MTEXT
   5
 2417
 330
-273C
+2C81
 100
 AcDbEntity
   8
@@ -17541,7 +17613,7 @@ AcDbMText
   1
 \c32767;Solomon's\PSeal
   7
-textstyle62
+textstyle64
  73
      1
  44
@@ -17551,7 +17623,7 @@ CIRCLE
   5
 2419
 330
-273C
+2C81
 100
 AcDbEntity
   8
@@ -17569,9 +17641,9 @@ AcDbCircle
   0
 ENDBLK
   5
-273E
+2C83
 330
-273C
+2C81
 100
 AcDbEntity
   8
@@ -17581,9 +17653,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2740
+2C85
 330
-273F
+2C84
 100
 AcDbEntity
   8
@@ -17609,7 +17681,7 @@ CIRCLE
   5
 2043
 330
-273F
+2C84
 100
 AcDbEntity
   8
@@ -17629,7 +17701,7 @@ MTEXT
   5
 2042
 330
-273F
+2C84
 100
 AcDbEntity
   8
@@ -17655,7 +17727,7 @@ AcDbMText
   1
 \c32767;Aronia x prunifolia\P2m x 1.5m
   7
-textstyle63
+textstyle65
  73
      1
  44
@@ -17665,7 +17737,7 @@ MTEXT
   5
 2044
 330
-273F
+2C84
 100
 AcDbEntity
   8
@@ -17691,7 +17763,7 @@ AcDbMText
   1
 \c32767;Aronia\P'Brilliance'
   7
-textstyle64
+textstyle66
  73
      1
  44
@@ -17699,9 +17771,9 @@ textstyle64
   0
 ENDBLK
   5
-2741
+2C86
 330
-273F
+2C84
 100
 AcDbEntity
   8
@@ -17711,9 +17783,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2743
+2C88
 330
-2742
+2C87
 100
 AcDbEntity
   8
@@ -17739,7 +17811,7 @@ CIRCLE
   5
 2413
 330
-2742
+2C87
 100
 AcDbEntity
   8
@@ -17759,7 +17831,7 @@ MTEXT
   5
 2412
 330
-2742
+2C87
 100
 AcDbEntity
   8
@@ -17785,7 +17857,7 @@ AcDbMText
   1
 \c32767;Gaultheria shallon\P1.2m x 1m
   7
-textstyle65
+textstyle67
  73
      1
  44
@@ -17795,7 +17867,7 @@ MTEXT
   5
 2411
 330
-2742
+2C87
 100
 AcDbEntity
   8
@@ -17821,7 +17893,7 @@ AcDbMText
   1
 \c32767;Salal
   7
-textstyle66
+textstyle68
  73
      1
  44
@@ -17829,9 +17901,9 @@ textstyle66
   0
 ENDBLK
   5
-2744
+2C89
 330
-2742
+2C87
 100
 AcDbEntity
   8
@@ -17841,9 +17913,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2746
+2C8B
 330
-2745
+2C8A
 100
 AcDbEntity
   8
@@ -17869,7 +17941,7 @@ LWPOLYLINE
   5
 1DDC
 330
-2745
+2C8A
 100
 AcDbEntity
   8
@@ -17907,7 +17979,7 @@ MTEXT
   5
 1DC7
 330
-2745
+2C8A
 100
 AcDbEntity
   8
@@ -17933,7 +18005,7 @@ AcDbMText
   1
 \c32767;Lonicera periclymenum 6m x 3m
   7
-textstyle67
+textstyle69
  73
      1
  44
@@ -17943,7 +18015,7 @@ MTEXT
   5
 1DC8
 330
-2745
+2C8A
 100
 AcDbEntity
   8
@@ -17969,7 +18041,7 @@ AcDbMText
   1
 \c32767;Honeysuckle
   7
-textstyle68
+textstyle70
  73
      1
  44
@@ -17977,9 +18049,9 @@ textstyle68
   0
 ENDBLK
   5
-2747
+2C8C
 330
-2745
+2C8A
 100
 AcDbEntity
   8
@@ -17989,9 +18061,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2749
+2C8E
 330
-2748
+2C8D
 100
 AcDbEntity
   8
@@ -18017,7 +18089,7 @@ LWPOLYLINE
   5
 1E20
 330
-2748
+2C8D
 100
 AcDbEntity
   8
@@ -18055,7 +18127,7 @@ MTEXT
   5
 1E1B
 330
-2748
+2C8D
 100
 AcDbEntity
   8
@@ -18081,7 +18153,7 @@ AcDbMText
   1
 \c32767;Lonicera periclymenum 2m x 2m
   7
-textstyle69
+textstyle71
  73
      1
  44
@@ -18091,7 +18163,7 @@ MTEXT
   5
 1E1D
 330
-2748
+2C8D
 100
 AcDbEntity
   8
@@ -18117,7 +18189,7 @@ AcDbMText
   1
 \c32767;Honeysuckle 'Rhubarb & Custard'
   7
-textstyle70
+textstyle72
  73
      1
  44
@@ -18125,9 +18197,9 @@ textstyle70
   0
 ENDBLK
   5
-274A
+2C8F
 330
-2748
+2C8D
 100
 AcDbEntity
   8
@@ -18137,9 +18209,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-274C
+2C91
 330
-274B
+2C90
 100
 AcDbEntity
   8
@@ -18165,7 +18237,7 @@ TEXT
   5
 1DEC
 330
-274B
+2C90
 100
 AcDbEntity
   8
@@ -18187,7 +18259,7 @@ AcDbText
   1
 Passiflora incarnata 2m x 1m
   7
-textstyle71
+textstyle73
  72
      1
  11
@@ -18205,7 +18277,7 @@ TEXT
   5
 1DED
 330
-274B
+2C90
 100
 AcDbEntity
   8
@@ -18227,7 +18299,7 @@ AcDbText
   1
 Maypops
   7
-textstyle72
+textstyle74
  72
      1
  11
@@ -18243,7 +18315,7 @@ LWPOLYLINE
   5
 1E06
 330
-274B
+2C90
 100
 AcDbEntity
   8
@@ -18279,9 +18351,9 @@ AcDbPolyline
   0
 ENDBLK
   5
-274D
+2C92
 330
-274B
+2C90
 100
 AcDbEntity
   8
@@ -18291,9 +18363,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-274F
+2C94
 330
-274E
+2C93
 100
 AcDbEntity
   8
@@ -18319,7 +18391,7 @@ LWPOLYLINE
   5
 1E0B
 330
-274E
+2C93
 100
 AcDbEntity
   8
@@ -18357,7 +18429,7 @@ MTEXT
   5
 1E0C
 330
-274E
+2C93
 100
 AcDbEntity
   8
@@ -18383,7 +18455,7 @@ AcDbMText
   1
 \c32767;Rosa 3m x 3m
   7
-textstyle73
+textstyle75
  73
      1
  44
@@ -18393,7 +18465,7 @@ MTEXT
   5
 1E0A
 330
-274E
+2C93
 100
 AcDbEntity
   8
@@ -18419,7 +18491,7 @@ AcDbMText
   1
 \c32767;Rose 'Mary Delany'
   7
-textstyle74
+textstyle76
  73
      1
  44
@@ -18427,9 +18499,9 @@ textstyle74
   0
 ENDBLK
   5
-2750
+2C95
 330
-274E
+2C93
 100
 AcDbEntity
   8
@@ -18439,9 +18511,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2752
+2C97
 330
-2751
+2C96
 100
 AcDbEntity
   8
@@ -18467,7 +18539,7 @@ ARC
   5
 1E13
 330
-2751
+2C96
 100
 AcDbEntity
   8
@@ -18497,7 +18569,7 @@ LINE
   5
 1E14
 330
-2751
+2C96
 100
 AcDbEntity
   8
@@ -18521,7 +18593,7 @@ ARC
   5
 1E15
 330
-2751
+2C96
 100
 AcDbEntity
   8
@@ -18551,7 +18623,7 @@ LINE
   5
 1E16
 330
-2751
+2C96
 100
 AcDbEntity
   8
@@ -18575,7 +18647,7 @@ MTEXT
   5
 1E11
 330
-2751
+2C96
 100
 AcDbEntity
   8
@@ -18601,7 +18673,7 @@ AcDbMText
   1
 \c32767;Rosa 7m x 2m
   7
-textstyle75
+textstyle77
  73
      1
  44
@@ -18611,7 +18683,7 @@ MTEXT
   5
 1E12
 330
-2751
+2C96
 100
 AcDbEntity
   8
@@ -18637,7 +18709,7 @@ AcDbMText
   1
 \c32767;Rose 'Mme Alfred Carrière'
   7
-textstyle76
+textstyle78
  73
      1
  44
@@ -18645,9 +18717,9 @@ textstyle76
   0
 ENDBLK
   5
-2753
+2C98
 330
-2751
+2C96
 100
 AcDbEntity
   8
@@ -18657,9 +18729,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2755
+2C9A
 330
-2754
+2C99
 100
 AcDbEntity
   8
@@ -18685,7 +18757,7 @@ CIRCLE
   5
 1F88
 330
-2754
+2C99
 100
 AcDbEntity
   8
@@ -18707,7 +18779,7 @@ MTEXT
   5
 1F8A
 330
-2754
+2C99
 100
 AcDbEntity
   8
@@ -18733,7 +18805,7 @@ AcDbMText
   1
 \c32767;Ugni molinae\P2m x 1m
   7
-textstyle77
+textstyle79
  73
      1
  44
@@ -18743,7 +18815,7 @@ MTEXT
   5
 1F89
 330
-2754
+2C99
 100
 AcDbEntity
   8
@@ -18769,7 +18841,7 @@ AcDbMText
   1
 \c32767;Chilean Guava
   7
-textstyle78
+textstyle80
  73
      1
  44
@@ -18777,9 +18849,9 @@ textstyle78
   0
 ENDBLK
   5
-2756
+2C9B
 330
-2754
+2C99
 100
 AcDbEntity
   8
@@ -18789,9 +18861,139 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2758
+2C9D
 330
-2757
+2C9C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+Shrub - Vaccinium corymbosum 'Northland'
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+Shrub - Vaccinium corymbosum 'Northland'
+  1
+
+  0
+CIRCLE
+  5
+2B2C
+330
+2C9C
+100
+AcDbEntity
+  8
+Plant - Shrub
+100
+AcDbCircle
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 40
+0.35
+  0
+MTEXT
+  5
+2B2D
+330
+2C9C
+100
+AcDbEntity
+  8
+Plant label
+100
+AcDbMText
+ 10
+0.0000000000000426
+ 20
+0.0
+ 30
+0.0
+ 40
+0.03
+ 41
+0.0
+ 46
+0.0
+ 71
+     2
+ 72
+     1
+  1
+\c32767;Vaccinium corymbosum\P0.7m x 0.7m
+  7
+textstyle57
+ 73
+     1
+ 44
+0.971628
+  0
+MTEXT
+  5
+2B2E
+330
+2C9C
+100
+AcDbEntity
+  8
+Plant - Shrub
+100
+AcDbMText
+ 10
+0.0000000000000426
+ 20
+0.0
+ 30
+0.0
+ 40
+0.07
+ 41
+0.0
+ 46
+0.0
+ 71
+     8
+ 72
+     1
+  1
+\c32767;Blueberry\P'Northland'
+  7
+textstyle58
+ 73
+     1
+ 44
+0.971628
+  0
+ENDBLK
+  5
+2C9E
+330
+2C9C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+2CA0
+330
+2C9F
 100
 AcDbEntity
   8
@@ -18817,7 +19019,7 @@ CIRCLE
   5
 23A9
 330
-2757
+2C9F
 100
 AcDbEntity
   8
@@ -18837,7 +19039,7 @@ MTEXT
   5
 23AA
 330
-2757
+2C9F
 100
 AcDbEntity
   8
@@ -18863,7 +19065,7 @@ AcDbMText
   1
 \c32767;Vaccinium myrtillus\P0.2m x 0.3m
   7
-textstyle79
+textstyle81
  73
      1
  44
@@ -18873,7 +19075,7 @@ MTEXT
   5
 23AB
 330
-2757
+2C9F
 100
 AcDbEntity
   8
@@ -18899,7 +19101,7 @@ AcDbMText
   1
 \c32767;Bilberry
   7
-textstyle80
+textstyle82
  73
      1
  44
@@ -18907,9 +19109,9 @@ textstyle80
   0
 ENDBLK
   5
-2759
+2CA1
 330
-2757
+2C9F
 100
 AcDbEntity
   8
@@ -18919,9 +19121,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-275B
+2CA3
 330
-275A
+2CA2
 100
 AcDbEntity
   8
@@ -18947,7 +19149,7 @@ CIRCLE
   5
 23A6
 330
-275A
+2CA2
 100
 AcDbEntity
   8
@@ -18967,7 +19169,7 @@ MTEXT
   5
 23A5
 330
-275A
+2CA2
 100
 AcDbEntity
   8
@@ -18993,7 +19195,7 @@ AcDbMText
   1
 \c32767;Vaccinium vitis-idaea\P0.25m x 1m
   7
-textstyle81
+textstyle83
  73
      1
  44
@@ -19003,7 +19205,7 @@ MTEXT
   5
 23A4
 330
-275A
+2CA2
 100
 AcDbEntity
   8
@@ -19029,7 +19231,7 @@ AcDbMText
   1
 \c32767;Lingonberry
   7
-textstyle82
+textstyle84
  73
      1
  44
@@ -19037,9 +19239,9 @@ textstyle82
   0
 ENDBLK
   5
-275C
+2CA4
 330
-275A
+2CA2
 100
 AcDbEntity
   8
@@ -19049,9 +19251,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-275E
+2CA6
 330
-275D
+2CA5
 100
 AcDbEntity
   8
@@ -19077,7 +19279,7 @@ MTEXT
   5
 134D
 330
-275D
+2CA5
 100
 AcDbEntity
   8
@@ -19107,7 +19309,7 @@ AcDbMText
   1
 Den
   7
-textstyle83
+textstyle85
  73
      1
  44
@@ -19117,7 +19319,7 @@ LINE
   5
 134F
 330
-275D
+2CA5
 100
 AcDbEntity
   8
@@ -19141,7 +19343,7 @@ LINE
   5
 1350
 330
-275D
+2CA5
 100
 AcDbEntity
   8
@@ -19165,7 +19367,7 @@ LINE
   5
 1351
 330
-275D
+2CA5
 100
 AcDbEntity
   8
@@ -19189,7 +19391,7 @@ LINE
   5
 1352
 330
-275D
+2CA5
 100
 AcDbEntity
   8
@@ -19211,9 +19413,9 @@ AcDbLine
   0
 ENDBLK
   5
-275F
+2CA7
 330
-275D
+2CA5
 100
 AcDbEntity
   8
@@ -19223,9 +19425,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2761
+2CA9
 330
-2760
+2CA8
 100
 AcDbEntity
   8
@@ -19251,7 +19453,7 @@ LWPOLYLINE
   5
 1853
 330
-2760
+2CA8
 100
 AcDbEntity
   8
@@ -19283,9 +19485,9 @@ AcDbPolyline
   0
 ENDBLK
   5
-2762
+2CAA
 330
-2760
+2CA8
 100
 AcDbEntity
   8
@@ -19295,9 +19497,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2764
+2CAC
 330
-2763
+2CAB
 100
 AcDbEntity
   8
@@ -19323,7 +19525,7 @@ LINE
   5
 10A0
 330
-2763
+2CAB
 100
 AcDbEntity
   8
@@ -19347,7 +19549,7 @@ LINE
   5
 109C
 330
-2763
+2CAB
 100
 AcDbEntity
   8
@@ -19371,7 +19573,7 @@ LINE
   5
 109F
 330
-2763
+2CAB
 100
 AcDbEntity
   8
@@ -19395,7 +19597,7 @@ LINE
   5
 10A1
 330
-2763
+2CAB
 100
 AcDbEntity
   8
@@ -19419,7 +19621,7 @@ LINE
   5
 10A2
 330
-2763
+2CAB
 100
 AcDbEntity
   8
@@ -19443,7 +19645,7 @@ LINE
   5
 10A3
 330
-2763
+2CAB
 100
 AcDbEntity
   8
@@ -19465,9 +19667,9 @@ AcDbLine
   0
 ENDBLK
   5
-2765
+2CAD
 330
-2763
+2CAB
 100
 AcDbEntity
   8
@@ -19477,9 +19679,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2767
+2CAF
 330
-2766
+2CAE
 100
 AcDbEntity
   8
@@ -19505,7 +19707,7 @@ LWPOLYLINE
   5
 23B2
 330
-2766
+2CAE
 100
 AcDbEntity
   8
@@ -19537,9 +19739,9 @@ AcDbPolyline
   0
 ENDBLK
   5
-2768
+2CB0
 330
-2766
+2CAE
 100
 AcDbEntity
   8
@@ -19549,9 +19751,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-276A
+2CB2
 330
-2769
+2CB1
 100
 AcDbEntity
   8
@@ -19577,7 +19779,7 @@ LINE
   5
 10BF
 330
-2769
+2CB1
 100
 AcDbEntity
   8
@@ -19601,7 +19803,7 @@ LINE
   5
 10C0
 330
-2769
+2CB1
 100
 AcDbEntity
   8
@@ -19625,7 +19827,7 @@ LINE
   5
 10BB
 330
-2769
+2CB1
 100
 AcDbEntity
   8
@@ -19649,7 +19851,7 @@ LINE
   5
 10BE
 330
-2769
+2CB1
 100
 AcDbEntity
   8
@@ -19673,7 +19875,7 @@ LINE
   5
 10BD
 330
-2769
+2CB1
 100
 AcDbEntity
   8
@@ -19697,7 +19899,7 @@ LINE
   5
 10BA
 330
-2769
+2CB1
 100
 AcDbEntity
   8
@@ -19721,7 +19923,7 @@ LINE
   5
 10BC
 330
-2769
+2CB1
 100
 AcDbEntity
   8
@@ -19743,9 +19945,9 @@ AcDbLine
   0
 ENDBLK
   5
-276B
+2CB3
 330
-2769
+2CB1
 100
 AcDbEntity
   8
@@ -19755,9 +19957,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-276D
+2CB5
 330
-276C
+2CB4
 100
 AcDbEntity
   8
@@ -19783,7 +19985,7 @@ MTEXT
   5
 1205
 330
-276C
+2CB4
 100
 AcDbEntity
   8
@@ -19809,7 +20011,7 @@ AcDbMText
   1
 \c32767;Water
   7
-textstyle84
+textstyle86
  73
      1
  44
@@ -19819,7 +20021,7 @@ CIRCLE
   5
 1206
 330
-276C
+2CB4
 100
 AcDbEntity
   8
@@ -19837,9 +20039,9 @@ AcDbCircle
   0
 ENDBLK
   5
-276E
+2CB6
 330
-276C
+2CB4
 100
 AcDbEntity
   8
@@ -19849,9 +20051,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2770
+2CB8
 330
-276F
+2CB7
 100
 AcDbEntity
   8
@@ -19877,7 +20079,7 @@ LINE
   5
 1AE1
 330
-276F
+2CB7
 100
 AcDbEntity
   8
@@ -19901,7 +20103,7 @@ LINE
   5
 1AE2
 330
-276F
+2CB7
 100
 AcDbEntity
   8
@@ -19925,7 +20127,7 @@ LINE
   5
 1AE3
 330
-276F
+2CB7
 100
 AcDbEntity
   8
@@ -19949,7 +20151,7 @@ LINE
   5
 1AE4
 330
-276F
+2CB7
 100
 AcDbEntity
   8
@@ -19973,7 +20175,7 @@ LINE
   5
 1AE5
 330
-276F
+2CB7
 100
 AcDbEntity
   8
@@ -19995,9 +20197,9 @@ AcDbLine
   0
 ENDBLK
   5
-2771
+2CB9
 330
-276F
+2CB7
 100
 AcDbEntity
   8
@@ -20007,9 +20209,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2773
+2CBB
 330
-2772
+2CBA
 100
 AcDbEntity
   8
@@ -20035,7 +20237,7 @@ CIRCLE
   5
 1044
 330
-2772
+2CBA
 100
 AcDbEntity
   8
@@ -20055,7 +20257,7 @@ MTEXT
   5
 1045
 330
-2772
+2CBA
 100
 AcDbEntity
   8
@@ -20081,7 +20283,7 @@ AcDbMText
   1
 \c32767;Betula pendula\P20m x 10m
   7
-textstyle85
+textstyle87
  73
      1
  44
@@ -20091,7 +20293,7 @@ MTEXT
   5
 1043
 330
-2772
+2CBA
 100
 AcDbEntity
   8
@@ -20117,7 +20319,7 @@ AcDbMText
   1
 \c32767;Silver Birch
   7
-textstyle86
+textstyle88
  73
      1
  44
@@ -20125,9 +20327,9 @@ textstyle86
   0
 ENDBLK
   5
-2774
+2CBC
 330
-2772
+2CBA
 100
 AcDbEntity
   8
@@ -20137,9 +20339,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2776
+2CBE
 330
-2775
+2CBD
 100
 AcDbEntity
   8
@@ -20165,7 +20367,7 @@ CIRCLE
   5
 10B2
 330
-2775
+2CBD
 100
 AcDbEntity
   8
@@ -20185,7 +20387,7 @@ MTEXT
   5
 10B1
 330
-2775
+2CBD
 100
 AcDbEntity
   8
@@ -20211,7 +20413,7 @@ AcDbMText
   1
 \c32767;Holly
   7
-textstyle87
+textstyle89
  73
      1
  44
@@ -20219,9 +20421,9 @@ textstyle87
   0
 ENDBLK
   5
-2777
+2CBF
 330
-2775
+2CBD
 100
 AcDbEntity
   8
@@ -20231,9 +20433,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2779
+2CC1
 330
-2778
+2CC0
 100
 AcDbEntity
   8
@@ -20259,7 +20461,7 @@ LWPOLYLINE
   5
 1D9E
 330
-2778
+2CC0
 100
 AcDbEntity
   8
@@ -20297,7 +20499,7 @@ MTEXT
   5
 1D7E
 330
-2778
+2CC0
 100
 AcDbEntity
   8
@@ -20323,7 +20525,7 @@ AcDbMText
   1
 \c32767;Malus domestica 2m x 2m
   7
-textstyle88
+textstyle90
  73
      1
  44
@@ -20333,7 +20535,7 @@ MTEXT
   5
 1D7C
 330
-2778
+2CC0
 100
 AcDbEntity
   8
@@ -20359,7 +20561,7 @@ AcDbMText
   1
 \c32767;Apple \fArial|b0|i1|c0|p0;\H0.0833336;M9
   7
-textstyle89
+textstyle91
  73
      1
  44
@@ -20367,9 +20569,9 @@ textstyle89
   0
 ENDBLK
   5
-277A
+2CC2
 330
-2778
+2CC0
 100
 AcDbEntity
   8
@@ -20379,9 +20581,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-277C
+2CC4
 330
-277B
+2CC3
 100
 AcDbEntity
   8
@@ -20407,7 +20609,7 @@ LWPOLYLINE
   5
 1D83
 330
-277B
+2CC3
 100
 AcDbEntity
   8
@@ -20445,7 +20647,7 @@ MTEXT
   5
 1D81
 330
-277B
+2CC3
 100
 AcDbEntity
   8
@@ -20471,7 +20673,7 @@ AcDbMText
   1
 \c32767;Malus domestica\P4m x 4m
   7
-textstyle90
+textstyle92
  73
      1
  44
@@ -20481,7 +20683,7 @@ MTEXT
   5
 1D82
 330
-277B
+2CC3
 100
 AcDbEntity
   8
@@ -20507,7 +20709,7 @@ AcDbMText
   1
 \c32767;Apple \fArial|b0|i1|c0|p0;\H0.25;MM106
   7
-textstyle91
+textstyle93
  73
      1
  44
@@ -20515,9 +20717,9 @@ textstyle91
   0
 ENDBLK
   5
-277D
+2CC5
 330
-277B
+2CC3
 100
 AcDbEntity
   8
@@ -20527,9 +20729,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-277F
+2CC7
 330
-277E
+2CC6
 100
 AcDbEntity
   8
@@ -20555,7 +20757,7 @@ CIRCLE
   5
 203D
 330
-277E
+2CC6
 100
 AcDbEntity
   8
@@ -20575,7 +20777,7 @@ MTEXT
   5
 203E
 330
-277E
+2CC6
 100
 AcDbEntity
   8
@@ -20601,7 +20803,7 @@ AcDbMText
   1
 \c32767;Malus sylvestris \fArial|b0|i1|c0|p0;M9\fArial|b0|i0|c0|p0;\P2m x 1.7m
   7
-textstyle92
+textstyle94
  73
      1
  44
@@ -20611,7 +20813,7 @@ MTEXT
   5
 203F
 330
-277E
+2CC6
 100
 AcDbEntity
   8
@@ -20637,7 +20839,7 @@ AcDbMText
   1
 \c32767;Crabapple\P'Golden Hornet'
   7
-textstyle93
+textstyle95
  73
      1
  44
@@ -20645,9 +20847,9 @@ textstyle93
   0
 ENDBLK
   5
-2780
+2CC8
 330
-277E
+2CC6
 100
 AcDbEntity
   8
@@ -20657,9 +20859,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2782
+2CCA
 330
-2781
+2CC9
 100
 AcDbEntity
   8
@@ -20685,7 +20887,7 @@ LWPOLYLINE
   5
 1DE3
 330
-2781
+2CC9
 100
 AcDbEntity
   8
@@ -20723,7 +20925,7 @@ MTEXT
   5
 1DE4
 330
-2781
+2CC9
 100
 AcDbEntity
   8
@@ -20749,7 +20951,7 @@ AcDbMText
   1
 \c32767;Malus sylvestris 2m x 2m
   7
-textstyle94
+textstyle96
  73
      1
  44
@@ -20759,7 +20961,7 @@ MTEXT
   5
 1DE2
 330
-2781
+2CC9
 100
 AcDbEntity
   8
@@ -20785,7 +20987,7 @@ AcDbMText
   1
 \c32767;Crabapple \fArial|b0|i1|c0|p0;\H0.083;M9
   7
-textstyle95
+textstyle97
  73
      1
  44
@@ -20793,9 +20995,9 @@ textstyle95
   0
 ENDBLK
   5
-2783
+2CCB
 330
-2781
+2CC9
 100
 AcDbEntity
   8
@@ -20805,9 +21007,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2785
+2CCD
 330
-2784
+2CCC
 100
 AcDbEntity
   8
@@ -20833,7 +21035,7 @@ CIRCLE
   5
 10AB
 330
-2784
+2CCC
 100
 AcDbEntity
   8
@@ -20853,7 +21055,7 @@ MTEXT
   5
 10AD
 330
-2784
+2CCC
 100
 AcDbEntity
   8
@@ -20879,7 +21081,7 @@ AcDbMText
   1
 \c32767;Oak
   7
-textstyle96
+textstyle98
  73
      1
  44
@@ -20887,9 +21089,9 @@ textstyle96
   0
 ENDBLK
   5
-2786
+2CCE
 330
-2784
+2CCC
 100
 AcDbEntity
   8
@@ -20899,9 +21101,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2788
+2CD0
 330
-2787
+2CCF
 100
 AcDbEntity
   8
@@ -20927,7 +21129,7 @@ LWPOLYLINE
   5
 1DA2
 330
-2787
+2CCF
 100
 AcDbEntity
   8
@@ -20965,7 +21167,7 @@ MTEXT
   5
 1DA3
 330
-2787
+2CCF
 100
 AcDbEntity
   8
@@ -20991,7 +21193,7 @@ AcDbMText
   1
 \c32767;Prunus armeniaca 2m x 2m
   7
-textstyle97
+textstyle99
  73
      1
  44
@@ -21001,7 +21203,7 @@ MTEXT
   5
 1DA1
 330
-2787
+2CCF
 100
 AcDbEntity
   8
@@ -21027,7 +21229,7 @@ AcDbMText
   1
 \c32767;Apricot \fArial|b0|i1|c0|p0;\H0.083;Pixy
   7
-textstyle98
+textstyle100
  73
      1
  44
@@ -21035,9 +21237,9 @@ textstyle98
   0
 ENDBLK
   5
-2789
+2CD1
 330
-2787
+2CCF
 100
 AcDbEntity
   8
@@ -21047,9 +21249,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-278B
+2CD3
 330
-278A
+2CD2
 100
 AcDbEntity
   8
@@ -21075,7 +21277,7 @@ CIRCLE
   5
 202F
 330
-278A
+2CD2
 100
 AcDbEntity
   8
@@ -21095,7 +21297,7 @@ MTEXT
   5
 2030
 330
-278A
+2CD2
 100
 AcDbEntity
   8
@@ -21121,7 +21323,7 @@ AcDbMText
   1
 \c32767;Prunus avium\P2m x 1.8m
   7
-textstyle99
+textstyle101
  73
      1
  44
@@ -21131,7 +21333,7 @@ MTEXT
   5
 2031
 330
-278A
+2CD2
 100
 AcDbEntity
   8
@@ -21157,7 +21359,7 @@ AcDbMText
   1
 \c32767;\H0.25;Cherry\P\fArial|b0|i1|c0|p0;\H0.2;Gisela
   7
-textstyle100
+textstyle102
  73
      1
  44
@@ -21165,9 +21367,9 @@ textstyle100
   0
 ENDBLK
   5
-278C
+2CD4
 330
-278A
+2CD2
 100
 AcDbEntity
   8
@@ -21177,9 +21379,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-278E
+2CD6
 330
-278D
+2CD5
 100
 AcDbEntity
   8
@@ -21205,7 +21407,7 @@ LWPOLYLINE
   5
 1DB4
 330
-278D
+2CD5
 100
 AcDbEntity
   8
@@ -21243,7 +21445,7 @@ MTEXT
   5
 1DB5
 330
-278D
+2CD5
 100
 AcDbEntity
   8
@@ -21269,7 +21471,7 @@ AcDbMText
   1
 \c32767;Prunus avium 2m x 2m
   7
-textstyle101
+textstyle103
  73
      1
  44
@@ -21279,7 +21481,7 @@ MTEXT
   5
 1DB6
 330
-278D
+2CD5
 100
 AcDbEntity
   8
@@ -21305,7 +21507,7 @@ AcDbMText
   1
 \c32767;Cherry \fArial|b0|i1|c0|p0;\H0.083;Gisela
   7
-textstyle102
+textstyle104
  73
      1
  44
@@ -21313,9 +21515,9 @@ textstyle102
   0
 ENDBLK
   5
-278F
+2CD7
 330
-278D
+2CD5
 100
 AcDbEntity
   8
@@ -21325,9 +21527,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2791
+2CD9
 330
-2790
+2CD8
 100
 AcDbEntity
   8
@@ -21353,7 +21555,7 @@ CIRCLE
   5
 202A
 330
-2790
+2CD8
 100
 AcDbEntity
   8
@@ -21373,7 +21575,7 @@ MTEXT
   5
 202B
 330
-2790
+2CD8
 100
 AcDbEntity
   8
@@ -21399,7 +21601,7 @@ AcDbMText
   1
 \c32767;Prunus domestica\P2.5m x 2m
   7
-textstyle103
+textstyle105
  73
      1
  44
@@ -21409,7 +21611,7 @@ MTEXT
   5
 202C
 330
-2790
+2CD8
 100
 AcDbEntity
   8
@@ -21435,7 +21637,7 @@ AcDbMText
   1
 \c32767;\H0.2;Plum\H0.25;\P\fArial|b0|i1|c0|p0;\H0.15;Pixy
   7
-textstyle104
+textstyle106
  73
      1
  44
@@ -21443,9 +21645,9 @@ textstyle104
   0
 ENDBLK
   5
-2792
+2CDA
 330
-2790
+2CD8
 100
 AcDbEntity
   8
@@ -21455,9 +21657,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2794
+2CDC
 330
-2793
+2CDB
 100
 AcDbEntity
   8
@@ -21483,7 +21685,7 @@ LWPOLYLINE
   5
 1DA7
 330
-2793
+2CDB
 100
 AcDbEntity
   8
@@ -21521,7 +21723,7 @@ MTEXT
   5
 1DA8
 330
-2793
+2CDB
 100
 AcDbEntity
   8
@@ -21547,7 +21749,7 @@ AcDbMText
   1
 \c32767;Prunus domestica 2m x 2m
   7
-textstyle105
+textstyle107
  73
      1
  44
@@ -21557,7 +21759,7 @@ MTEXT
   5
 1DA6
 330
-2793
+2CDB
 100
 AcDbEntity
   8
@@ -21583,7 +21785,7 @@ AcDbMText
   1
 \c32767;Plum \fArial|b0|i1|c0|p0;\H0.083;Pixy
   7
-textstyle106
+textstyle108
  73
      1
  44
@@ -21591,9 +21793,9 @@ textstyle106
   0
 ENDBLK
   5
-2795
+2CDD
 330
-2793
+2CDB
 100
 AcDbEntity
   8
@@ -21603,9 +21805,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-2797
+2CDF
 330
-2796
+2CDE
 100
 AcDbEntity
   8
@@ -21631,7 +21833,7 @@ LWPOLYLINE
   5
 1DBE
 330
-2796
+2CDE
 100
 AcDbEntity
   8
@@ -21669,7 +21871,7 @@ MTEXT
   5
 1DBF
 330
-2796
+2CDE
 100
 AcDbEntity
   8
@@ -21695,7 +21897,7 @@ AcDbMText
   1
 \c32767;Pyrus communis 2m x 2m
   7
-textstyle107
+textstyle109
  73
      1
  44
@@ -21705,7 +21907,7 @@ MTEXT
   5
 1DC0
 330
-2796
+2CDE
 100
 AcDbEntity
   8
@@ -21731,7 +21933,7 @@ AcDbMText
   1
 \c32767;Pear \fArial|b0|i1|c0|p0;\H0.083;Quince C
   7
-textstyle108
+textstyle110
  73
      1
  44
@@ -21739,9 +21941,9 @@ textstyle108
   0
 ENDBLK
   5
-2798
+2CE0
 330
-2796
+2CDE
 100
 AcDbEntity
   8
@@ -21751,9 +21953,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-279A
+2CE2
 330
-2799
+2CE1
 100
 AcDbEntity
   8
@@ -21779,7 +21981,7 @@ LWPOLYLINE
   5
 1DAF
 330
-2799
+2CE1
 100
 AcDbEntity
   8
@@ -21817,7 +22019,7 @@ MTEXT
   5
 1DB0
 330
-2799
+2CE1
 100
 AcDbEntity
   8
@@ -21843,7 +22045,7 @@ AcDbMText
   1
 \c32767;Pyrus pyrifolia 2m x 2m
   7
-textstyle109
+textstyle111
  73
      1
  44
@@ -21853,7 +22055,7 @@ MTEXT
   5
 1DAE
 330
-2799
+2CE1
 100
 AcDbEntity
   8
@@ -21879,7 +22081,7 @@ AcDbMText
   1
 \c32767;Asian Pear \fArial|b0|i1|c0|p0;\H0.083;Quince C
   7
-textstyle110
+textstyle112
  73
      1
  44
@@ -21887,9 +22089,9 @@ textstyle110
   0
 ENDBLK
   5
-279B
+2CE3
 330
-2799
+2CE1
 100
 AcDbEntity
   8
@@ -21899,9 +22101,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-279D
+2CE5
 330
-279C
+2CE4
 100
 AcDbEntity
   8
@@ -21927,7 +22129,7 @@ LWPOLYLINE
   5
 D84
 330
-279C
+2CE4
 100
 AcDbEntity
   8
@@ -21961,7 +22163,7 @@ LWPOLYLINE
   5
 D86
 330
-279C
+2CE4
 100
 AcDbEntity
   8
@@ -21995,7 +22197,7 @@ MTEXT
   5
 D87
 330
-279C
+2CE4
 100
 AcDbEntity
   8
@@ -22021,7 +22223,7 @@ AcDbMText
   1
 \c32767;ASHP
   7
-textstyle111
+textstyle113
  73
      1
  44
@@ -22029,9 +22231,9 @@ textstyle111
   0
 ENDBLK
   5
-279E
+2CE6
 330
-279C
+2CE4
 100
 AcDbEntity
   8
@@ -22041,9 +22243,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-27A0
+2CE8
 330
-279F
+2CE7
 100
 AcDbEntity
   8
@@ -22069,7 +22271,7 @@ MTEXT
   5
 D63
 330
-279F
+2CE7
 100
 AcDbEntity
   8
@@ -22099,7 +22301,7 @@ AcDbMText
   1
 DP
   7
-textstyle112
+textstyle114
  73
      1
  44
@@ -22109,7 +22311,7 @@ CIRCLE
   5
 D64
 330
-279F
+2CE7
 100
 AcDbEntity
   8
@@ -22127,9 +22329,9 @@ AcDbCircle
   0
 ENDBLK
   5
-27A1
+2CE9
 330
-279F
+2CE7
 100
 AcDbEntity
   8
@@ -22139,9 +22341,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-27A3
+2CEB
 330
-27A2
+2CEA
 100
 AcDbEntity
   8
@@ -22167,7 +22369,7 @@ MTEXT
   5
 DC3
 330
-27A2
+2CEA
 100
 AcDbEntity
   8
@@ -22197,7 +22399,7 @@ AcDbMText
   1
 IC
   7
-textstyle113
+textstyle115
  73
      1
  44
@@ -22207,7 +22409,7 @@ CIRCLE
   5
 DC4
 330
-27A2
+2CEA
 100
 AcDbEntity
   8
@@ -22225,9 +22427,9 @@ AcDbCircle
   0
 ENDBLK
   5
-27A4
+2CEC
 330
-27A2
+2CEA
 100
 AcDbEntity
   8
@@ -22237,9 +22439,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-27A6
+2CEE
 330
-27A5
+2CED
 100
 AcDbEntity
   8
@@ -22265,7 +22467,7 @@ CIRCLE
   5
 DA1
 330
-27A5
+2CED
 100
 AcDbEntity
   8
@@ -22285,7 +22487,7 @@ MTEXT
   5
 DA2
 330
-27A5
+2CED
 100
 AcDbEntity
   8
@@ -22311,7 +22513,7 @@ AcDbMText
   1
 \c32767;Washing\PLine
   7
-textstyle114
+textstyle116
  73
      1
  44
@@ -22319,9 +22521,9 @@ textstyle114
   0
 ENDBLK
   5
-27A7
+2CEF
 330
-27A5
+2CED
 100
 AcDbEntity
   8
@@ -22339,7 +22541,7 @@ INSERT
   5
 2037
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22357,49 +22559,9 @@ Perennial - Hosta sieboldiana 'Elegans'
   0
 INSERT
   5
-2374
-330
-2608
-100
-AcDbEntity
-  8
-Plant - Perennial
-100
-AcDbBlockReference
-  2
-Perennial - Hemerocallis dumortieri
- 10
-16.51907058876325
- 20
-32.84299625371688
- 30
-0.0
-  0
-INSERT
-  5
-2379
-330
-2608
-100
-AcDbEntity
-  8
-Plant - Perennial
-100
-AcDbBlockReference
-  2
-Perennial - Hemerocallis lilioasphodelus
- 10
-15.8
- 20
-33.09999999999999
- 30
-0.0
-  0
-INSERT
-  5
 23B4
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22425,7 +22587,7 @@ INSERT
   5
 23BC
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22451,7 +22613,7 @@ INSERT
   5
 23BD
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22477,7 +22639,7 @@ INSERT
   5
 23BF
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22503,7 +22665,7 @@ INSERT
   5
 23C0
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22529,7 +22691,7 @@ INSERT
   5
 23CA
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22549,7 +22711,7 @@ INSERT
   5
 23EF
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22569,7 +22731,7 @@ INSERT
   5
 23FD
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22589,7 +22751,7 @@ INSERT
   5
 242C
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22609,7 +22771,7 @@ MTEXT
   5
 2406
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22635,7 +22797,7 @@ AcDbMText
   1
 LUNGWORT
   7
-textstyle115
+textstyle117
  73
      1
  44
@@ -22645,7 +22807,7 @@ INSERT
   5
 2023
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22665,7 +22827,7 @@ INSERT
   5
 2046
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22685,7 +22847,7 @@ INSERT
   5
 10B7
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22705,7 +22867,7 @@ INSERT
   5
 1856
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22727,7 +22889,7 @@ INSERT
   5
 1DAB
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22749,7 +22911,7 @@ INSERT
   5
 1DC4
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22771,7 +22933,7 @@ INSERT
   5
 2048
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22793,7 +22955,7 @@ INSERT
   5
 1E18
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22815,7 +22977,7 @@ INSERT
   5
 1207
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22835,7 +22997,7 @@ IMAGE
   5
 C40
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22873,7 +23035,7 @@ AcDbRasterImage
  23
 512.0
 340
-2812
+2D5C
  70
      7
 280
@@ -22885,7 +23047,7 @@ AcDbRasterImage
 283
      0
 360
-2813
+2D5D
  71
      1
  91
@@ -22905,7 +23067,7 @@ INSERT
   5
 DCC
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22929,7 +23091,7 @@ INSERT
   5
 836
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22957,7 +23119,7 @@ LINE
   5
 D55
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -22981,7 +23143,7 @@ LINE
   5
 DA5
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23005,7 +23167,7 @@ LINE
   5
 DA6
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23029,7 +23191,7 @@ INSERT
   5
 DD7
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23055,7 +23217,7 @@ LINE
   5
 DBF
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23079,7 +23241,7 @@ LWPOLYLINE
   5
 DC9
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23113,7 +23275,7 @@ LWPOLYLINE
   5
 DD5
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23147,7 +23309,7 @@ INSERT
   5
 DD4
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23171,7 +23333,7 @@ LINE
   5
 DDC
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23195,7 +23357,7 @@ LINE
   5
 DDD
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23219,7 +23381,7 @@ SPLINE
   5
 100C
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23299,7 +23461,7 @@ SPLINE
   5
 100E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23379,7 +23541,7 @@ LINE
   5
 100F
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23403,7 +23565,7 @@ LINE
   5
 1030
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23427,7 +23589,7 @@ INSERT
   5
 1011
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23447,7 +23609,7 @@ LINE
   5
 1017
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23471,7 +23633,7 @@ SPLINE
   5
 101A
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23551,7 +23713,7 @@ MTEXT
   5
 101B
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23577,7 +23739,7 @@ AcDbMText
   1
 \c32767;Track
   7
-textstyle116
+textstyle118
  73
      1
  44
@@ -23587,7 +23749,7 @@ MTEXT
   5
 1033
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23613,7 +23775,7 @@ AcDbMText
   1
 \c32767;Pavement
   7
-textstyle117
+textstyle119
  73
      1
  44
@@ -23623,7 +23785,7 @@ MTEXT
   5
 1034
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23649,7 +23811,7 @@ AcDbMText
   1
 \c32767;Road
   7
-textstyle118
+textstyle120
  73
      1
  44
@@ -23659,7 +23821,7 @@ LINE
   5
 101D
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23683,7 +23845,7 @@ LINE
   5
 101E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23707,7 +23869,7 @@ LINE
   5
 101F
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23731,7 +23893,7 @@ LINE
   5
 1020
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23755,7 +23917,7 @@ LINE
   5
 1021
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23779,7 +23941,7 @@ LINE
   5
 1022
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23803,7 +23965,7 @@ LINE
   5
 1023
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23827,7 +23989,7 @@ LINE
   5
 1024
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23851,7 +24013,7 @@ LINE
   5
 1025
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23875,7 +24037,7 @@ INSERT
   5
 102C
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23895,7 +24057,7 @@ INSERT
   5
 102D
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23915,7 +24077,7 @@ INSERT
   5
 102E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23939,7 +24101,7 @@ INSERT
   5
 102F
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23961,7 +24123,7 @@ LINE
   5
 1031
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -23985,7 +24147,7 @@ LINE
   5
 1032
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24009,7 +24171,7 @@ INSERT
   5
 1035
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24033,7 +24195,7 @@ LWPOLYLINE
   5
 1041
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24131,7 +24293,7 @@ INSERT
   5
 1047
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24151,7 +24313,7 @@ INSERT
   5
 1053
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24171,7 +24333,7 @@ INSERT
   5
 1075
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24191,7 +24353,7 @@ LINE
   5
 107A
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24215,7 +24377,7 @@ LINE
   5
 107C
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24239,7 +24401,7 @@ LINE
   5
 107D
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24263,7 +24425,7 @@ LINE
   5
 107E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24287,7 +24449,7 @@ LWPOLYLINE
   5
 2393
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24329,7 +24491,7 @@ LINE
   5
 1861
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24353,7 +24515,7 @@ LINE
   5
 1FBD
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24377,7 +24539,7 @@ LWPOLYLINE
   5
 1FE8
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24453,7 +24615,7 @@ LWPOLYLINE
   5
 1FEE
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24609,7 +24771,7 @@ LWPOLYLINE
   5
 1FF7
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24929,7 +25091,7 @@ LWPOLYLINE
   5
 1FFA
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24965,7 +25127,7 @@ LINE
   5
 10C6
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -24989,7 +25151,7 @@ LINE
   5
 1FF4
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25013,7 +25175,7 @@ LINE
   5
 10C3
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25037,7 +25199,7 @@ INSERT
   5
 108A
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25057,7 +25219,7 @@ LINE
   5
 10C2
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25081,7 +25243,7 @@ LINE
   5
 1092
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25105,7 +25267,7 @@ LINE
   5
 10C9
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25129,7 +25291,7 @@ LINE
   5
 10C4
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25153,7 +25315,7 @@ INSERT
   5
 10AF
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25173,7 +25335,7 @@ INSERT
   5
 10B6
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25193,7 +25355,7 @@ INSERT
   5
 10B8
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25213,7 +25375,7 @@ SPLINE
   5
 2397
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25285,7 +25447,7 @@ LWPOLYLINE
   5
 2399
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25363,7 +25525,7 @@ INSERT
   5
 134A
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25385,7 +25547,7 @@ INSERT
   5
 1851
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25405,7 +25567,7 @@ INSERT
   5
 1855
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25427,7 +25589,7 @@ INSERT
   5
 1AE9
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25447,7 +25609,7 @@ INSERT
   5
 1D72
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25467,7 +25629,7 @@ INSERT
   5
 1D73
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25487,7 +25649,7 @@ INSERT
   5
 1DA5
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25509,7 +25671,7 @@ INSERT
   5
 1DB9
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25531,7 +25693,7 @@ INSERT
   5
 1E23
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25553,7 +25715,7 @@ INSERT
   5
 1DB8
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25575,7 +25737,7 @@ INSERT
   5
 1DC3
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25597,7 +25759,7 @@ INSERT
   5
 1DDE
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25619,7 +25781,7 @@ INSERT
   5
 1E09
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25641,7 +25803,7 @@ INSERT
   5
 1E08
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25663,7 +25825,7 @@ INSERT
   5
 1E0E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25685,7 +25847,7 @@ INSERT
   5
 1E22
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25707,7 +25869,7 @@ INSERT
   5
 1DBA
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25729,7 +25891,7 @@ INSERT
   5
 1F8B
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25749,7 +25911,7 @@ LINE
   5
 1FC6
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25773,7 +25935,7 @@ LINE
   5
 1FB3
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25797,7 +25959,7 @@ LWPOLYLINE
   5
 1FCA
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -25823,7 +25985,7 @@ HATCH
   5
 239E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -26617,7 +26779,7 @@ AR-CONC
  43
 0.0583725486704261
  44
-0.0489804028493156
+0.0489804028493155
  45
 -0.0996107904207033
  46
@@ -26631,7 +26793,7 @@ AR-CONC
  53
 91.1842
  43
--0.179605122421383
+-0.1796051224213829
  44
 0.179605122421383
  45
@@ -26663,7 +26825,7 @@ AR-CONC
  53
 396.1840000000001
  43
--0.179605122421383
+-0.1796051224213829
  44
 0.179605122421383
  45
@@ -26679,7 +26841,7 @@ AR-CONC
  53
 66.0
  43
--0.0449012806053456
+-0.0449012806053455
  44
 0.2245064030267289
  45
@@ -26695,7 +26857,7 @@ AR-CONC
  53
 370.9999999999999
  43
--0.0449012806053456
+-0.0449012806053455
  44
 0.2245064030267289
  45
@@ -26777,7 +26939,7 @@ AR-CONC
  43
 -0.2002597114998423
  44
--0.200259711499842
+-0.2002597114998421
  45
 0.4996393151625793
  46
@@ -26799,9 +26961,9 @@ AR-CONC
  53
 362.5
  43
--0.2900622727105338
+-0.2900622727105339
  44
--0.2900622727105336
+-0.2900622727105335
  45
 0.433819522091084
  46
@@ -26835,7 +26997,7 @@ INSERT
   5
 1342
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -26857,7 +27019,7 @@ LINE
   5
 1FD2
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -26881,7 +27043,7 @@ LINE
   5
 1FD6
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -26905,7 +27067,7 @@ LINE
   5
 1FD4
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -26929,7 +27091,7 @@ LINE
   5
 1FD5
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -26953,7 +27115,7 @@ LINE
   5
 1FD8
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -26977,7 +27139,7 @@ INSERT
   5
 134E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -26997,7 +27159,7 @@ HATCH
   5
 1FEA
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -27289,7 +27451,7 @@ HATCH
   5
 1FF3
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -27767,7 +27929,7 @@ HATCH
   5
 1FFC
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -27967,7 +28129,7 @@ MTEXT
   5
 1FFE
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -27993,7 +28155,7 @@ AcDbMText
   1
 CURVE
   7
-textstyle119
+textstyle121
  73
      1
  44
@@ -28003,7 +28165,7 @@ MTEXT
   5
 1FFF
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28029,7 +28191,7 @@ AcDbMText
   1
 HI-WALL
   7
-textstyle120
+textstyle122
  73
      1
  44
@@ -28039,7 +28201,7 @@ MTEXT
   5
 2000
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28065,7 +28227,7 @@ AcDbMText
   1
 Hi-SIDE
   7
-textstyle121
+textstyle123
  11
 -1.836970198721030E-16
  21
@@ -28081,7 +28243,7 @@ MTEXT
   5
 2002
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28107,7 +28269,7 @@ AcDbMText
   1
 SHED
   7
-textstyle122
+textstyle124
  11
 6.123233995736766E-17
  21
@@ -28123,7 +28285,7 @@ MTEXT
   5
 2003
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28149,7 +28311,7 @@ AcDbMText
   1
 BACK
   7
-textstyle123
+textstyle125
  73
      1
  44
@@ -28159,7 +28321,7 @@ MTEXT
   5
 23C2
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28185,7 +28347,7 @@ AcDbMText
   1
 FENCE-E
   7
-textstyle124
+textstyle126
  73
      1
  44
@@ -28195,7 +28357,7 @@ MTEXT
   5
 23C3
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28221,7 +28383,7 @@ AcDbMText
   1
 FENCE-N
   7
-textstyle125
+textstyle127
  73
      1
  44
@@ -28231,7 +28393,7 @@ MTEXT
   5
 23C4
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28257,7 +28419,7 @@ AcDbMText
   1
 FENCE-S
   7
-textstyle126
+textstyle128
  73
      1
  44
@@ -28267,7 +28429,7 @@ MTEXT
   5
 2004
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28293,7 +28455,7 @@ AcDbMText
   1
 CENTRAL
   7
-textstyle127
+textstyle129
  73
      1
  44
@@ -28303,7 +28465,7 @@ MTEXT
   5
 2005
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28329,7 +28491,7 @@ AcDbMText
   1
 BANK
   7
-textstyle128
+textstyle130
  73
      1
  44
@@ -28339,7 +28501,7 @@ MTEXT
   5
 2006
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28365,7 +28527,7 @@ AcDbMText
   1
 DEN
   7
-textstyle129
+textstyle131
  73
      1
  44
@@ -28375,7 +28537,7 @@ INSERT
   5
 2022
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28395,7 +28557,7 @@ INSERT
   5
 2024
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28415,7 +28577,7 @@ INSERT
   5
 2025
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28435,7 +28597,7 @@ INSERT
   5
 2026
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28455,7 +28617,7 @@ INSERT
   5
 200D
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28475,7 +28637,7 @@ MTEXT
   5
 2027
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28501,7 +28663,7 @@ AcDbMText
   1
 OREGANO
   7
-textstyle130
+textstyle132
  11
 6.123233995736766E-17
  21
@@ -28517,7 +28679,7 @@ MTEXT
   5
 23F8
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28543,7 +28705,7 @@ AcDbMText
   1
 THYME
   7
-textstyle131
+textstyle133
  11
 6.123233995736766E-17
  21
@@ -28559,7 +28721,7 @@ MTEXT
   5
 2028
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28585,7 +28747,7 @@ AcDbMText
   1
 WILD THYME
   7
-textstyle132
+textstyle134
  11
 6.123233995736766E-17
  21
@@ -28601,7 +28763,7 @@ INSERT
   5
 2040
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28621,7 +28783,7 @@ INSERT
   5
 2047
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28641,7 +28803,7 @@ INSERT
   5
 2352
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28661,7 +28823,7 @@ INSERT
   5
 2353
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28681,7 +28843,7 @@ INSERT
   5
 10C1
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28703,31 +28865,11 @@ Structure - Steps
  50
 180.0
   0
-INSERT
-  5
-2365
-330
-2608
-100
-AcDbEntity
-  8
-Plant - Perennial
-100
-AcDbBlockReference
-  2
-Perennial - Hemerocallis citrina
- 10
-16.7
- 20
-33.3
- 30
-0.0
-  0
 HATCH
   5
 23A2
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -28895,7 +29037,7 @@ HATCH
   5
 239C
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29093,7 +29235,7 @@ INSERT
   5
 23A7
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29113,7 +29255,7 @@ INSERT
   5
 23AD
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29133,7 +29275,7 @@ INSERT
   5
 23AE
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29153,7 +29295,7 @@ INSERT
   5
 23AF
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29173,7 +29315,7 @@ INSERT
   5
 23B0
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29193,7 +29335,7 @@ INSERT
   5
 23BE
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29219,7 +29361,7 @@ INSERT
   5
 23C1
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29245,7 +29387,7 @@ INSERT
   5
 23C9
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29265,7 +29407,7 @@ INSERT
   5
 23CB
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29285,7 +29427,7 @@ INSERT
   5
 23CC
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29305,7 +29447,7 @@ INSERT
   5
 23D1
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29325,7 +29467,7 @@ INSERT
   5
 23D2
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29345,7 +29487,7 @@ INSERT
   5
 23D3
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29365,7 +29507,7 @@ INSERT
   5
 23D8
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29385,7 +29527,7 @@ INSERT
   5
 23D9
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29405,7 +29547,7 @@ INSERT
   5
 23DA
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29425,7 +29567,7 @@ INSERT
   5
 23DB
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29443,51 +29585,9 @@ Ornamental - Pilosella aurantiaca
   0
 MTEXT
   5
-23DC
-330
-2608
-100
-AcDbEntity
-  8
-Ground cover
-100
-AcDbMText
- 10
-12.34095779775978
- 20
-36.6153521740298
- 30
-0.0
- 40
-0.2
- 41
-0.0
- 46
-0.0
- 71
-     2
- 72
-     1
-  1
-NEPALESE\PRASPBERRY
-  7
-textstyle133
- 11
-0.99677591033511
- 21
-0.08023580606943942
- 31
-0.0
- 73
-     1
- 44
-0.971628
-  0
-MTEXT
-  5
 23E4
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29513,11 +29613,11 @@ AcDbMText
   1
 TAIWANESE \PBRAMBLE
   7
-textstyle134
+textstyle135
  11
 0.99677591033511
  21
-0.08023580606943942
+0.08023580606943941
  31
 0.0
  73
@@ -29529,7 +29629,7 @@ MTEXT
   5
 2425
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29555,11 +29655,11 @@ AcDbMText
   1
 WOOD ANEMONE
   7
-textstyle135
+textstyle136
  11
 0.99677591033511
  21
-0.08023580606943942
+0.08023580606943941
  31
 0.0
  73
@@ -29571,7 +29671,7 @@ MTEXT
   5
 2426
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29579,9 +29679,9 @@ Ground cover
 100
 AcDbMText
  10
-13.86740284328626
+12.95617849315186
  20
-36.85955169480917
+36.56118860286148
  30
 0.0
  40
@@ -29595,13 +29695,55 @@ AcDbMText
  72
      1
   1
-SWEET\PWOODRUFF
+SWEET WOODRUFF
   7
-textstyle136
+textstyle137
  11
 0.99677591033511
  21
-0.08023580606943942
+0.08023580606943943
+ 31
+0.0
+ 73
+     1
+ 44
+0.971628
+  0
+MTEXT
+  5
+2B2A
+330
+2B4D
+100
+AcDbEntity
+  8
+Ground cover
+100
+AcDbMText
+ 10
+20.45907717125587
+ 20
+31.15057966319107
+ 30
+0.0
+ 40
+0.2
+ 41
+0.0
+ 46
+0.0
+ 71
+     2
+ 72
+     1
+  1
+BUGLE
+  7
+textstyle138
+ 11
+-1.836970198721030E-16
+ 21
+-1.0
  31
 0.0
  73
@@ -29613,7 +29755,7 @@ INSERT
   5
 23DE
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29633,7 +29775,7 @@ INSERT
   5
 2033
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29653,7 +29795,7 @@ INSERT
   5
 23F2
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29673,7 +29815,7 @@ INSERT
   5
 23F0
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29693,7 +29835,7 @@ INSERT
   5
 23F1
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29713,7 +29855,7 @@ LINE
   5
 23F3
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29737,7 +29879,7 @@ INSERT
   5
 23F4
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29757,7 +29899,7 @@ INSERT
   5
 23F5
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29777,7 +29919,7 @@ INSERT
   5
 23F6
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29797,7 +29939,7 @@ INSERT
   5
 23F7
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29817,7 +29959,7 @@ INSERT
   5
 2350
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29837,7 +29979,7 @@ INSERT
   5
 23FE
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29857,7 +29999,7 @@ INSERT
   5
 23FF
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29877,7 +30019,7 @@ INSERT
   5
 2408
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29897,7 +30039,7 @@ INSERT
   5
 2409
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29917,7 +30059,7 @@ INSERT
   5
 240A
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29937,7 +30079,7 @@ INSERT
   5
 240B
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29957,7 +30099,7 @@ INSERT
   5
 240C
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29977,7 +30119,7 @@ INSERT
   5
 2414
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -29997,7 +30139,7 @@ INSERT
   5
 2415
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30017,7 +30159,7 @@ INSERT
   5
 241A
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30037,7 +30179,7 @@ INSERT
   5
 241B
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30057,7 +30199,7 @@ INSERT
   5
 241C
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30077,7 +30219,7 @@ INSERT
   5
 241D
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30097,7 +30239,7 @@ INSERT
   5
 241E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30117,7 +30259,7 @@ INSERT
   5
 241F
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30135,49 +30277,9 @@ Perennial - Polygonatum multiflorum
   0
 INSERT
   5
-2420
-330
-2608
-100
-AcDbEntity
-  8
-Ground cover
-100
-AcDbBlockReference
-  2
-Perennial - Hemerocallis dumortieri
- 10
-17.12124033566464
- 20
-32.84685631619702
- 30
-0.0
-  0
-INSERT
-  5
-2421
-330
-2608
-100
-AcDbEntity
-  8
-Ground cover
-100
-AcDbBlockReference
-  2
-Perennial - Hemerocallis lilioasphodelus
- 10
-17.53040695855918
- 20
-33.23286256421073
- 30
-0.0
-  0
-INSERT
-  5
 2422
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30197,7 +30299,7 @@ INSERT
   5
 2423
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30217,7 +30319,7 @@ INSERT
   5
 2424
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30237,7 +30339,7 @@ INSERT
   5
 23E9
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30257,7 +30359,7 @@ INSERT
   5
 242D
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30277,7 +30379,7 @@ INSERT
   5
 242E
 330
-2608
+2B4D
 100
 AcDbEntity
   8
@@ -30293,11 +30395,31 @@ Perennial - Knautia arvensis
  30
 0.0
   0
+INSERT
+  5
+2B2F
+330
+2B4D
+100
+AcDbEntity
+  8
+Plant - Shrub
+100
+AcDbBlockReference
+  2
+Shrub - Vaccinium corymbosum 'Northland'
+ 10
+22.3744038584321
+ 20
+31.88801637524443
+ 30
+0.0
+  0
 VIEWPORT
   5
-26D7
+2C1C
 330
-2604
+2B49
 100
 AcDbEntity
  67
@@ -30403,7 +30525,7 @@ AcDbViewport
  61
      5
 348
-2618
+2B5D
 292
      1
 282
@@ -30415,7 +30537,7 @@ AcDbViewport
  63
    256
 361
-26D8
+2C1D
   0
 ENDSEC
   0
@@ -30425,7 +30547,7 @@ OBJECTS
   0
 DICTIONARY
   5
-25F6
+2B3B
 330
 0
 100
@@ -30435,73 +30557,73 @@ AcDbDictionary
   3
 ACAD_DETAILVIEWSTYLE
 350
-2830
+2D7A
   3
 ACAD_GROUP
 350
-25F7
+2B3C
   3
 ACAD_IMAGE_DICT
 350
-2811
+2D5B
   3
 ACAD_LAYOUT
 350
-2603
+2B48
   3
 ACAD_MATERIAL
 350
-262C
+2B71
   3
 ACAD_MLEADERSTYLE
 350
-2654
+2B99
   3
 ACAD_MLINESTYLE
 350
-2600
+2B45
   3
 ACAD_PLOTSETTINGS
 350
-2602
+2B47
   3
 ACAD_PLOTSTYLENAME
 350
-25F8
+2B3D
   3
 ACAD_SCALELIST
 350
-2630
+2B75
   3
 ACAD_SECTIONVIEWSTYLE
 350
-2831
+2D7B
   3
 ACAD_TABLESTYLE
 350
-2652
+2B97
   3
 ACAD_VISUALSTYLE
 350
-2613
+2B58
   3
 AcDbVariableDictionary
 350
-2829
+2D73
   3
 ACDB_RECOMPOSE_DATA
 350
-282D
+2D77
   3
 QCAD_OBJECTS
 350
-2658
+2B9D
   0
 SUN
   5
-2656
+2B9B
 330
-2612
+2B57
 100
 AcDbSun
  90
@@ -30531,7 +30653,7 @@ AcDbSun
   0
 IMAGEDEF_REACTOR
   5
-2813
+2D5D
 330
 C40
 100
@@ -30543,9 +30665,9 @@ C40
   0
 SUN
   5
-26D8
+2C1D
 330
-26D7
+2C1C
 100
 AcDbSun
  90
@@ -30575,15 +30697,15 @@ AcDbSun
   0
 DICTIONARY
   5
-2830
+2D7A
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30591,15 +30713,15 @@ AcDbDictionary
   0
 DICTIONARY
   5
-25F7
+2B3C
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30607,15 +30729,15 @@ AcDbDictionary
   0
 DICTIONARY
   5
-2811
+2D5B
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30623,19 +30745,19 @@ AcDbDictionary
   3
 image_446
 350
-2812
+2D5C
   0
 DICTIONARY
   5
-2603
+2B48
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30643,23 +30765,23 @@ AcDbDictionary
   3
 Layout1
 350
-2607
+2B4C
   3
 Model
 350
-260B
+2B50
   0
 DICTIONARY
   5
-262C
+2B71
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30667,27 +30789,27 @@ AcDbDictionary
   3
 ByBlock
 350
-262E
+2B73
   3
 ByLayer
 350
-262D
+2B72
   3
 Global
 350
-262F
+2B74
   0
 DICTIONARY
   5
-2654
+2B99
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30695,19 +30817,19 @@ AcDbDictionary
   3
 Standard
 350
-2655
+2B9A
   0
 DICTIONARY
   5
-2600
+2B45
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30715,19 +30837,19 @@ AcDbDictionary
   3
 Standard
 350
-2601
+2B46
   0
 DICTIONARY
   5
-2602
+2B47
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30735,15 +30857,15 @@ AcDbDictionary
   0
 ACDBDICTIONARYWDFLT
   5
-25F8
+2B3D
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30751,23 +30873,23 @@ AcDbDictionary
   3
 Normal
 350
-25F9
+2B3E
 100
 AcDbDictionaryWithDefault
 340
-25F9
+2B3E
   0
 DICTIONARY
   5
-2630
+2B75
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30775,147 +30897,147 @@ AcDbDictionary
   3
 A0
 350
-2631
+2B76
   3
 A1
 350
-2632
+2B77
   3
 A2
 350
-2633
+2B78
   3
 A3
 350
-2634
+2B79
   3
 A4
 350
-2635
+2B7A
   3
 A5
 350
-2636
+2B7B
   3
 A6
 350
-2637
+2B7C
   3
 A7
 350
-2638
+2B7D
   3
 A8
 350
-2639
+2B7E
   3
 A9
 350
-263A
+2B7F
   3
 B0
 350
-263B
+2B80
   3
 B1
 350
-263C
+2B81
   3
 B2
 350
-263D
+2B82
   3
 B3
 350
-263E
+2B83
   3
 B4
 350
-263F
+2B84
   3
 B5
 350
-2640
+2B85
   3
 B6
 350
-2641
+2B86
   3
 B7
 350
-2642
+2B87
   3
 B8
 350
-2643
+2B88
   3
 B9
 350
-2644
+2B89
   3
 C0
 350
-2645
+2B8A
   3
 C1
 350
-2646
+2B8B
   3
 C2
 350
-2647
+2B8C
   3
 C3
 350
-2648
+2B8D
   3
 C4
 350
-2649
+2B8E
   3
 C5
 350
-264A
+2B8F
   3
 C6
 350
-264B
+2B90
   3
 C7
 350
-264C
+2B91
   3
 C8
 350
-264D
+2B92
   3
 C9
 350
-264E
+2B93
   3
 D0
 350
-264F
+2B94
   3
 D1
 350
-2650
+2B95
   3
 D2
 350
-2651
+2B96
   0
 DICTIONARY
   5
-2831
+2D7B
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30923,15 +31045,15 @@ AcDbDictionary
   0
 DICTIONARY
   5
-2652
+2B97
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30939,19 +31061,19 @@ AcDbDictionary
   3
 Standard
 350
-2653
+2B98
   0
 DICTIONARY
   5
-2613
+2B58
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -30959,111 +31081,111 @@ AcDbDictionary
   3
 2dWireframe
 350
-2618
+2B5D
   3
 Basic
 350
-261B
+2B60
   3
 Brighten
 350
-261F
+2B64
   3
 ColorChange
 350
-2623
+2B68
   3
 Conceptual
 350
-261D
+2B62
   3
 Dim
 350
-261E
+2B63
   3
 EdgeColorOff
 350
-2626
+2B6B
   3
 Facepattern
 350
-2622
+2B67
   3
 Flat
 350
-2614
+2B59
   3
 FlatWithEdges
 350
-2615
+2B5A
   3
 Gouraud
 350
-2616
+2B5B
   3
 GouraudWithEdges
 350
-2617
+2B5C
   3
 Hidden
 350
-261A
+2B5F
   3
 JitterOff
 350
-2624
+2B69
   3
 Linepattern
 350
-2621
+2B66
   3
 OverhangOff
 350
-2625
+2B6A
   3
 Realistic
 350
-261C
+2B61
   3
 Shaded
 350
-262B
+2B70
   3
 Shaded with edges
 350
-262A
+2B6F
   3
 Shades of Gray
 350
-2627
+2B6C
   3
 Sketchy
 350
-2628
+2B6D
   3
 Thicken
 350
-2620
+2B65
   3
 Wireframe
 350
-2619
+2B5E
   3
 X-Ray
 350
-2629
+2B6E
   0
 DICTIONARY
   5
-2829
+2D73
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -31071,27 +31193,27 @@ AcDbDictionary
   3
 CANNOSCALE
 350
-282A
+2D74
   3
 CMLEADERSTYLE
 350
-282F
+2D79
   3
 CTABLESTYLE
 350
-282E
+2D78
   0
 XRECORD
   5
-282D
+2D77
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbXrecord
 280
@@ -31099,19 +31221,19 @@ AcDbXrecord
  90
         1
 330
-2653
+2B98
   0
 DICTIONARY
   5
-2658
+2B9D
 102
 {ACAD_REACTORS
 330
-25F6
+2B3B
 102
 }
 330
-25F6
+2B3B
 100
 AcDbDictionary
 281
@@ -31119,213 +31241,213 @@ AcDbDictionary
   3
 ColorSettings/BackgroundColor
 350
-265A
+2B9F
   3
 ColorSettings/ColorMode
 350
-265B
+2BA0
   3
 Grid/DisplayGrid00
 350
-265C
+2BA1
   3
 Grid/DisplayGrid01
 350
-265D
+2BA2
   3
 Grid/DisplayGrid02
 350
-265E
+2BA3
   3
 Grid/DisplayGrid03
 350
-265F
+2BA4
   3
 Grid/GridSpacingX00
 350
-2660
+2BA5
   3
 Grid/GridSpacingX01
 350
-2661
+2BA6
   3
 Grid/GridSpacingX02
 350
-2662
+2BA7
   3
 Grid/GridSpacingX03
 350
-2663
+2BA8
   3
 Grid/GridSpacingY00
 350
-2664
+2BA9
   3
 Grid/GridSpacingY01
 350
-2665
+2BAA
   3
 Grid/GridSpacingY02
 350
-2666
+2BAB
   3
 Grid/GridSpacingY03
 350
-2667
+2BAC
   3
 Grid/IsometricGrid00
 350
-2668
+2BAD
   3
 Grid/IsometricGrid01
 350
-2669
+2BAE
   3
 Grid/IsometricGrid02
 350
-266A
+2BAF
   3
 Grid/IsometricGrid03
 350
-266B
+2BB0
   3
 Grid/IsometricProjection00
 350
-266C
+2BB1
   3
 Grid/IsometricProjection01
 350
-266D
+2BB2
   3
 Grid/IsometricProjection02
 350
-266E
+2BB3
   3
 Grid/IsometricProjection03
 350
-266F
+2BB4
   3
 Grid/MetaGridSpacingX00
 350
-2670
+2BB5
   3
 Grid/MetaGridSpacingX01
 350
-2671
+2BB6
   3
 Grid/MetaGridSpacingX02
 350
-2672
+2BB7
   3
 Grid/MetaGridSpacingX03
 350
-2673
+2BB8
   3
 Grid/MetaGridSpacingY00
 350
-2674
+2BB9
   3
 Grid/MetaGridSpacingY01
 350
-2675
+2BBA
   3
 Grid/MetaGridSpacingY02
 350
-2676
+2BBB
   3
 Grid/MetaGridSpacingY03
 350
-2677
+2BBC
   3
 MultiPageSettings/Columns
 350
-2678
+2BBD
   3
 MultiPageSettings/GlueMarginsBottom
 350
-2679
+2BBE
   3
 MultiPageSettings/GlueMarginsLeft
 350
-267A
+2BBF
   3
 MultiPageSettings/GlueMarginsRight
 350
-267B
+2BC0
   3
 MultiPageSettings/GlueMarginsTop
 350
-267C
+2BC1
   3
 MultiPageSettings/PrintCropMarks
 350
-267D
+2BC2
   3
 MultiPageSettings/Rows
 350
-267E
+2BC3
   3
 PageSettings/OffsetX
 350
-267F
+2BC4
   3
 PageSettings/OffsetY
 350
-2680
+2BC5
   3
 PageSettings/PageOrientation
 350
-2681
+2BC6
   3
 PageSettings/PaperHeight
 350
-2682
+2BC7
   3
 PageSettings/PaperWidth
 350
-2683
+2BC8
   3
 PageSettings/Scale
 350
-2684
+2BC9
   3
 PageSettings/ShowPaperBorders
 350
-2685
+2BCA
   3
 QCADVersion
 350
-2686
+2BCB
   3
 UnitSettings/PaperUnit
 350
-2687
+2BCC
   3
 ViewportCenter
 350
-2688
+2BCD
   3
 ViewportHeight
 350
-2689
+2BCE
   3
 ViewportWidth
 350
-268A
+2BCF
   0
 IMAGEDEF
   5
-2812
+2D5C
 102
 {ACAD_REACTORS
 330
-2811
+2D5B
 330
-2813
+2D5D
 102
 }
 330
-2811
+2D5B
 100
 AcDbRasterImageDef
  90
@@ -31347,15 +31469,15 @@ AcDbRasterImageDef
   0
 LAYOUT
   5
-2607
+2B4C
 102
 {ACAD_REACTORS
 330
-2603
+2B48
 102
 }
 330
-2603
+2B48
 100
 AcDbPlotSettings
   1
@@ -31475,21 +31597,21 @@ Layout1
  76
      0
 330
-2604
+2B49
 331
-26D7
+2C1C
   0
 LAYOUT
   5
-260B
+2B50
 102
 {ACAD_REACTORS
 330
-2603
+2B48
 102
 }
 330
-2603
+2B48
 100
 AcDbPlotSettings
   1
@@ -31609,21 +31731,21 @@ Model
  76
      0
 330
-2608
+2B4D
 331
-2612
+2B57
   0
 MATERIAL
   5
-262E
+2B73
 102
 {ACAD_REACTORS
 330
-262C
+2B71
 102
 }
 330
-262C
+2B71
 100
 AcDbMaterial
   1
@@ -31635,15 +31757,15 @@ ByBlock
   0
 MATERIAL
   5
-262D
+2B72
 102
 {ACAD_REACTORS
 330
-262C
+2B71
 102
 }
 330
-262C
+2B71
 100
 AcDbMaterial
   1
@@ -31655,15 +31777,15 @@ ByLayer
   0
 MATERIAL
   5
-262F
+2B74
 102
 {ACAD_REACTORS
 330
-262C
+2B71
 102
 }
 330
-262C
+2B71
 100
 AcDbMaterial
   1
@@ -31675,15 +31797,15 @@ Global
   0
 MLEADERSTYLE
   5
-2655
+2B9A
 102
 {ACAD_REACTORS
 330
-2654
+2B99
 102
 }
 330
-2654
+2B99
 100
 AcDbMLeaderStyle
 179
@@ -31705,7 +31827,7 @@ AcDbMLeaderStyle
  91
 -1056964608
 340
-25FD
+2B42
  92
        -2
 290
@@ -31725,7 +31847,7 @@ Standard
 300
 
 342
-25FB
+2B40
 174
      1
 178
@@ -31781,15 +31903,15 @@ Standard
   0
 MLINESTYLE
   5
-2601
+2B46
 102
 {ACAD_REACTORS
 330
-2600
+2B45
 102
 }
 330
-2600
+2B45
 100
 AcDbMlineStyle
   2
@@ -31821,27 +31943,27 @@ BYLAYER
   0
 ACDBPLACEHOLDER
   5
-25F9
+2B3E
 102
 {ACAD_REACTORS
 330
-25F8
+2B3D
 102
 }
 330
-25F8
+2B3D
   0
 SCALE
   5
-2631
+2B76
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -31857,15 +31979,15 @@ AcDbScale
   0
 SCALE
   5
-2632
+2B77
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -31881,15 +32003,15 @@ AcDbScale
   0
 SCALE
   5
-2633
+2B78
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -31905,15 +32027,15 @@ AcDbScale
   0
 SCALE
   5
-2634
+2B79
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -31929,15 +32051,15 @@ AcDbScale
   0
 SCALE
   5
-2635
+2B7A
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -31953,15 +32075,15 @@ AcDbScale
   0
 SCALE
   5
-2636
+2B7B
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -31977,15 +32099,15 @@ AcDbScale
   0
 SCALE
   5
-2637
+2B7C
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32001,15 +32123,15 @@ AcDbScale
   0
 SCALE
   5
-2638
+2B7D
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32025,15 +32147,15 @@ AcDbScale
   0
 SCALE
   5
-2639
+2B7E
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32049,15 +32171,15 @@ AcDbScale
   0
 SCALE
   5
-263A
+2B7F
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32073,15 +32195,15 @@ AcDbScale
   0
 SCALE
   5
-263B
+2B80
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32097,15 +32219,15 @@ AcDbScale
   0
 SCALE
   5
-263C
+2B81
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32121,15 +32243,15 @@ AcDbScale
   0
 SCALE
   5
-263D
+2B82
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32145,15 +32267,15 @@ AcDbScale
   0
 SCALE
   5
-263E
+2B83
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32169,15 +32291,15 @@ AcDbScale
   0
 SCALE
   5
-263F
+2B84
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32193,15 +32315,15 @@ AcDbScale
   0
 SCALE
   5
-2640
+2B85
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32217,15 +32339,15 @@ AcDbScale
   0
 SCALE
   5
-2641
+2B86
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32241,15 +32363,15 @@ AcDbScale
   0
 SCALE
   5
-2642
+2B87
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32265,15 +32387,15 @@ AcDbScale
   0
 SCALE
   5
-2643
+2B88
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32289,15 +32411,15 @@ AcDbScale
   0
 SCALE
   5
-2644
+2B89
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32313,15 +32435,15 @@ AcDbScale
   0
 SCALE
   5
-2645
+2B8A
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32337,15 +32459,15 @@ AcDbScale
   0
 SCALE
   5
-2646
+2B8B
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32361,15 +32483,15 @@ AcDbScale
   0
 SCALE
   5
-2647
+2B8C
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32385,15 +32507,15 @@ AcDbScale
   0
 SCALE
   5
-2648
+2B8D
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32409,15 +32531,15 @@ AcDbScale
   0
 SCALE
   5
-2649
+2B8E
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32433,15 +32555,15 @@ AcDbScale
   0
 SCALE
   5
-264A
+2B8F
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32457,15 +32579,15 @@ AcDbScale
   0
 SCALE
   5
-264B
+2B90
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32481,15 +32603,15 @@ AcDbScale
   0
 SCALE
   5
-264C
+2B91
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32505,15 +32627,15 @@ AcDbScale
   0
 SCALE
   5
-264D
+2B92
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32529,15 +32651,15 @@ AcDbScale
   0
 SCALE
   5
-264E
+2B93
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32553,15 +32675,15 @@ AcDbScale
   0
 SCALE
   5
-264F
+2B94
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32577,15 +32699,15 @@ AcDbScale
   0
 SCALE
   5
-2650
+2B95
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32601,15 +32723,15 @@ AcDbScale
   0
 SCALE
   5
-2651
+2B96
 102
 {ACAD_REACTORS
 330
-2630
+2B75
 102
 }
 330
-2630
+2B75
 100
 AcDbScale
  70
@@ -32625,21 +32747,21 @@ AcDbScale
   0
 TABLESTYLE
   5
-2653
+2B98
 102
 {ACAD_REACTORS
 330
-2652
+2B97
 102
 }
 102
 {ACAD_XDICTIONARY
 360
-282B
+2D75
 102
 }
 330
-2652
+2B97
 100
 AcDbTableStyle
   3
@@ -32821,15 +32943,15 @@ Standard
   0
 VISUALSTYLE
   5
-2618
+2B5D
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -33083,15 +33205,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-261B
+2B60
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -33345,15 +33467,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-261F
+2B64
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -33607,15 +33729,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2623
+2B68
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -33871,15 +33993,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-261D
+2B62
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -34133,15 +34255,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-261E
+2B63
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -34395,15 +34517,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2626
+2B6B
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -34657,15 +34779,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2622
+2B67
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -34919,15 +35041,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2614
+2B59
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -35181,15 +35303,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2615
+2B5A
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -35443,15 +35565,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2616
+2B5B
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -35705,15 +35827,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2617
+2B5C
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -35967,15 +36089,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-261A
+2B5F
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -36229,15 +36351,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2624
+2B69
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -36491,15 +36613,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2621
+2B66
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -36753,15 +36875,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2625
+2B6A
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -37015,15 +37137,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-261C
+2B61
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -37277,15 +37399,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-262B
+2B70
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -37541,15 +37663,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-262A
+2B6F
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -37803,15 +37925,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2627
+2B6C
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -38065,15 +38187,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2628
+2B6D
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -38327,15 +38449,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2620
+2B65
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -38589,15 +38711,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2619
+2B5E
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -38851,15 +38973,15 @@ strokes_ogs.tif
   0
 VISUALSTYLE
   5
-2629
+2B6E
 102
 {ACAD_REACTORS
 330
-2613
+2B58
 102
 }
 330
-2613
+2B58
 100
 AcDbVisualStyle
   2
@@ -39113,15 +39235,15 @@ strokes_ogs.tif
   0
 DICTIONARYVAR
   5
-282A
+2D74
 102
 {ACAD_REACTORS
 330
-2829
+2D73
 102
 }
 330
-2829
+2D73
 100
 DictionaryVariables
 280
@@ -39131,15 +39253,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-282F
+2D79
 102
 {ACAD_REACTORS
 330
-2829
+2D73
 102
 }
 330
-2829
+2D73
 100
 DictionaryVariables
 280
@@ -39149,15 +39271,15 @@ Standard
   0
 DICTIONARYVAR
   5
-282E
+2D78
 102
 {ACAD_REACTORS
 330
-2829
+2D73
 102
 }
 330
-2829
+2D73
 100
 DictionaryVariables
 280
@@ -39167,15 +39289,15 @@ Standard
   0
 XRECORD
   5
-265A
+2B9F
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39185,15 +39307,15 @@ AcDbXrecord
   0
 XRECORD
   5
-265B
+2BA0
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39203,15 +39325,15 @@ FullColor
   0
 XRECORD
   5
-265C
+2BA1
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39221,15 +39343,15 @@ AcDbXrecord
   0
 XRECORD
   5
-265D
+2BA2
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39239,15 +39361,15 @@ AcDbXrecord
   0
 XRECORD
   5
-265E
+2BA3
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39257,15 +39379,15 @@ AcDbXrecord
   0
 XRECORD
   5
-265F
+2BA4
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39275,15 +39397,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2660
+2BA5
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39293,15 +39415,15 @@ auto
   0
 XRECORD
   5
-2661
+2BA6
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39311,15 +39433,15 @@ auto
   0
 XRECORD
   5
-2662
+2BA7
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39329,15 +39451,15 @@ auto
   0
 XRECORD
   5
-2663
+2BA8
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39347,15 +39469,15 @@ auto
   0
 XRECORD
   5
-2664
+2BA9
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39365,15 +39487,15 @@ auto
   0
 XRECORD
   5
-2665
+2BAA
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39383,15 +39505,15 @@ auto
   0
 XRECORD
   5
-2666
+2BAB
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39401,15 +39523,15 @@ auto
   0
 XRECORD
   5
-2667
+2BAC
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39419,33 +39541,15 @@ auto
   0
 XRECORD
   5
-2668
+2BAD
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
-100
-AcDbXrecord
-280
-     1
-290
-     0
-  0
-XRECORD
-  5
-2669
-102
-{ACAD_REACTORS
-330
-2658
-102
-}
-330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39455,15 +39559,15 @@ AcDbXrecord
   0
 XRECORD
   5
-266A
+2BAE
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39473,15 +39577,15 @@ AcDbXrecord
   0
 XRECORD
   5
-266B
+2BAF
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39491,15 +39595,33 @@ AcDbXrecord
   0
 XRECORD
   5
-266C
+2BB0
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
+100
+AcDbXrecord
+280
+     1
+290
+     0
+  0
+XRECORD
+  5
+2BB1
+102
+{ACAD_REACTORS
+330
+2B9D
+102
+}
+330
+2B9D
 100
 AcDbXrecord
 280
@@ -39509,15 +39631,15 @@ AcDbXrecord
   0
 XRECORD
   5
-266D
+2BB2
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39527,15 +39649,15 @@ AcDbXrecord
   0
 XRECORD
   5
-266E
+2BB3
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39545,15 +39667,15 @@ AcDbXrecord
   0
 XRECORD
   5
-266F
+2BB4
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39563,15 +39685,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2670
+2BB5
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39581,15 +39703,15 @@ auto
   0
 XRECORD
   5
-2671
+2BB6
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39599,15 +39721,15 @@ auto
   0
 XRECORD
   5
-2672
+2BB7
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39617,15 +39739,15 @@ auto
   0
 XRECORD
   5
-2673
+2BB8
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39635,15 +39757,15 @@ auto
   0
 XRECORD
   5
-2674
+2BB9
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39653,15 +39775,15 @@ auto
   0
 XRECORD
   5
-2675
+2BBA
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39671,15 +39793,15 @@ auto
   0
 XRECORD
   5
-2676
+2BBB
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39689,15 +39811,15 @@ auto
   0
 XRECORD
   5
-2677
+2BBC
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39707,15 +39829,15 @@ auto
   0
 XRECORD
   5
-2678
+2BBD
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39725,15 +39847,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2679
+2BBE
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39743,15 +39865,15 @@ AcDbXrecord
   0
 XRECORD
   5
-267A
+2BBF
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39761,15 +39883,15 @@ AcDbXrecord
   0
 XRECORD
   5
-267B
+2BC0
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39779,15 +39901,15 @@ AcDbXrecord
   0
 XRECORD
   5
-267C
+2BC1
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39797,15 +39919,15 @@ AcDbXrecord
   0
 XRECORD
   5
-267D
+2BC2
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39815,15 +39937,15 @@ AcDbXrecord
   0
 XRECORD
   5
-267E
+2BC3
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39833,15 +39955,15 @@ AcDbXrecord
   0
 XRECORD
   5
-267F
+2BC4
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39851,15 +39973,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2680
+2BC5
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39869,15 +39991,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2681
+2BC6
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39887,15 +40009,15 @@ Landscape
   0
 XRECORD
   5
-2682
+2BC7
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39905,15 +40027,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2683
+2BC8
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39923,15 +40045,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2684
+2BC9
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39941,15 +40063,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2685
+2BCA
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39959,15 +40081,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2686
+2BCB
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39977,15 +40099,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2687
+2BCC
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -39995,15 +40117,15 @@ AcDbXrecord
   0
 XRECORD
   5
-2688
+2BCD
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
@@ -40011,45 +40133,45 @@ AcDbXrecord
   0
 XRECORD
   5
-2689
+2BCE
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
      1
  40
-3.978952404525337
+6.87562975501978
   0
 XRECORD
   5
-268A
+2BCF
 102
 {ACAD_REACTORS
 330
-2658
+2B9D
 102
 }
 330
-2658
+2B9D
 100
 AcDbXrecord
 280
      1
  40
-6.957376614199131
+12.0223467893361
   0
 DICTIONARY
   5
-282B
+2D75
 330
-2653
+2B98
 100
 AcDbDictionary
 280
@@ -40059,19 +40181,19 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-282C
+2D76
   0
 CELLSTYLEMAP
   5
-282C
+2D76
 102
 {ACAD_REACTORS
 330
-282B
+2D75
 102
 }
 330
-282B
+2D75
 100
 AcDbCellStyleMap
  90
@@ -40115,7 +40237,7 @@ CONTENTFORMAT_BEGIN
  62
      0
 340
-25FB
+2B40
 144
 0.25
 309
@@ -40157,7 +40279,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40179,7 +40301,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40201,7 +40323,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40223,7 +40345,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40245,7 +40367,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40267,7 +40389,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40325,7 +40447,7 @@ CONTENTFORMAT_BEGIN
  62
      0
 340
-25FB
+2B40
 144
 0.18
 309
@@ -40367,7 +40489,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40389,7 +40511,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40411,7 +40533,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40433,7 +40555,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40455,7 +40577,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40477,7 +40599,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40535,7 +40657,7 @@ CONTENTFORMAT_BEGIN
  62
      0
 340
-25FB
+2B40
 144
 0.18
 309
@@ -40577,7 +40699,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40599,7 +40721,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40621,7 +40743,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40643,7 +40765,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40665,7 +40787,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
@@ -40687,7 +40809,7 @@ GRIDFORMAT_BEGIN
  92
        -2
 340
-25FD
+2B42
  93
         0
  40
